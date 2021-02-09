@@ -1,0 +1,677 @@
+﻿restaurant,RestaurantID,RestaurantName,RestaurantCity,RestaurantAttributes
+000000C,0C,Moti Mahal,Chicago,Buffet Dining Carry in Wine and Beer Fair Decor Excellent Food Indian No Reservations below $15 Good Service Short Drive 
+000001C,1C,Village,Chicago,After Hours Dining Cab Extraordinary Decor Excellent Food Italian Late Night Menu $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Weekend Brunch 
+000002C,2C,Millrose Brewing Company,Chicago,American (Traditional) Extraordinary Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Pub Feel Excellent Service See the Game Singles Scene Weekend Brunch 
+000003C,3C,Dover Straits,Chicago,Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Pre-theater Dining Excellent Service Seafood Weekend Brunch 
+000004C,4C,Eat Your Hearts Out,Chicago,Creative Excellent Decor Excellent Food Health Conscious Menus Health Food $15-$30 Quirky Excellent Service Short Drive Weekend Brunch 
+000005C,5C,Pizzeria Uno & Due,Chicago,After Hours Dining Cab Good Decor Extraordinary Food For the Young and Young at Heart Good for Younger Kids Late Night Menu No Reservations below $15 Pizza Good Service Weekend Brunch 
+000006C,6C,Trattoria Franco,Chicago,Good Decor Good Food Italian Little Known But Well Liked $15-$30 Good Service Short Drive 
+000007C,7C,Little Bucharest,Chicago,After Hours Dining Good Decor Good Food Late Night Menu $15-$30 Relaxed Senior Scene Roumanian Excellent Service Short Drive Weekend Brunch 
+000008C,8C,Pattaya,Chicago,Cab Fair Decor Good Food below $15 Excellent Service Thai 
+000009C,9C,House of Hunan,Chicago,Buffet Dining Business Scene Cab Chinese Good Decor Excellent Food $15-$30 Private Parties Private Rooms Available Excellent Service 
+0000010C,10C,Morton's of Chicago,Chicago,Business Scene Excellent Decor Extraordinary Food Good Out of Town Business Hip Place To Be Long Drive $30-$50 Parking/Valet Power Brokers Private Parties Private Rooms Available Extraordinary Service Steakhouses Very Busy - Reservations a Must Weekend Brunch 
+0000011C,11C,Jezebel,Chicago,Excellent Decor Excellent Food Italian Mediterranean $15-$30 Parking/Valet Quiet for Conversation Romantic Excellent Service Short Drive Weekend Brunch 
+0000012C,12C,Capri,Chicago,Fair Decor Excellent Food Italian Long Drive $15-$30 Parking/Valet Good Service Weekend Brunch 
+0000013C,13C,Don Roth's,Chicago,American (Traditional) Excellent Decor Dining Outdoors Excellent Food Long Drive $15-$30 Parking/Valet Excellent Service Walk Weekend Brunch 
+0000014C,14C,Tucci Benucch,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Pizza Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+0000015C,15C,Rim Klong,Chicago,Good Decor Excellent Food below $15 Excellent Service Short Drive Thai 
+0000016C,16C,Four Farthings Tavern & Grill,Chicago,American (New) American (Traditional) Buffet Dining Excellent Decor Dining Outdoors Excellent Food $15-$30 Place for Singles Pub Feel Excellent Service See the Game Short Drive Singles Scene Weekend Brunch 
+0000017C,17C,Skip's Other Place,Chicago,American (Traditional) Good Decor Excellent Food Good for Younger Kids Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Steakhouses Weekend Brunch 
+0000018C,18C,Papa Milano,Chicago,Cab Good Decor Excellent Food Italian $15-$30 Relaxed Senior Scene Good Service Weekend Brunch 
+0000019C,19C,Gladys Luncheonette,Chicago,Fair Decor Extraordinary Food Little Known But Well Liked No Liquor Served Open for Breakfast below $15 Parking/Valet Excellent Service Short Drive Soulfood Southern Weekend Brunch 
+0000020C,20C,Harry's Velvet Room,Chicago,After Hours Dining American (Traditional) Cab Good Decor Good Food Italian Late Night Menu $15-$30 Quiet for Conversation Romantic Good Service 
+0000021C,21C,Jaxx,Chicago,Business Scene Cab Classic Hotel Dining Continental Extraordinary Decor Dining Outdoors English Excellent Food $30-$50 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+0000022C,22C,Bangkok Star,Chicago,Good Decor Excellent Food below $15 Excellent Service Short Drive Thai 
+0000023C,23C,Cafe,Chicago,After Hours Dining American (New) Business Scene Cab Classic Hotel Dining Extraordinary Decor Extraordinary Food Late Night Menu Little Known But Well Liked $15-$30 Parking/Valet Near-perfect Service Weekend Brunch 
+0000024C,24C,Timbers Charhouse,Chicago,American (Traditional) Excellent Decor Excellent Food Good for Younger Kids Long Drive $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+0000025C,25C,El Jardin,Chicago,Good Decor Dining Outdoors Good Food Margaritas Mexican $15-$30 People Keep Coming Back Good Service Short Drive Weekend Brunch 
+0000026C,26C,Signature Room at the 95th,Chicago,American (New) Buffet Dining Business Scene Cab Extraordinary Decor Dancing Entertainment Excellent Food Good Out of Town Business Great Place to Meet for a Drink $30-$50 Parking/Valet Romantic Excellent Service 
+0000027C,27C,DINING ROOM,Chicago,Business Scene Cab Classic Hotel Dining Near-perfect Decor Near-perfect Food French (New) Game Good Out of Town Business Health Conscious Menus Need To Dress over $50 Parking/Valet Pre-theater Dining Prix Fixe Menus Romantic Near-perfect Service Very Busy - Reservations a Must 
+0000028C,28C,Hamburger Hamlet,Chicago,Cab Good Decor Good Food For the Young and Young at Heart Good for Younger Kids Hamburgers below $15 People Keep Coming Back Good Service Weekend Brunch 
+0000029C,29C,Petros Dianna's,Chicago,Excellent Decor Good Food Greek $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service Short Drive Weekend Brunch 
+0000030C,30C,Waterfront,Chicago,After Hours Dining Cab Excellent Decor Excellent Food Late Night Menu $15-$30 Excellent Service Seafood Weekend Brunch 
+0000031C,31C,Walter's,Chicago,American (Traditional) Excellent Decor Extraordinary Food Little Known But Well Liked Long Drive $30-$50 Private Parties Private Rooms Available Quiet for Conversation Romantic Excellent Service Seafood 
+0000032C,32C,Thai Touch,Chicago,Good Decor Extraordinary Food $15-$30 Relaxed Senior Scene Excellent Service Short Drive Thai 
+0000033C,33C,Silk Mandarin,Chicago,Creative Chinese Excellent Decor Excellent Food Long Drive $15-$30 Excellent Service 
+0000034C,34C,Mambo Grill,Chicago,Authentic After Hours Dining Cab Excellent Decor Excellent Food Late Night Menu $15-$30 Place for Singles Excellent Service Spanish Tapas Weekend Brunch 
+0000035C,35C,L'Olive,Chicago,Good Decor Good Food Middle Eastern Moroccan $15-$30 Good Service Short Drive Weekend Brunch 
+0000036C,36C,Sukumvit Cafe,Chicago,Creative Cab Carry in Wine and Beer Poor Decor Excellent Food below $15 Fair Service Thai 
+0000037C,37C,Little Spain,Chicago,Good Decor Dancing Entertainment Extraordinary Food Little Known But Well Liked $15-$30 Relaxed Senior Scene Excellent Service Short Drive Spanish Weekend Brunch 
+0000038C,38C,Shaw's Deerfield,Chicago,Business Scene Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Seafood Very Busy - Reservations a Must Weekend Brunch 
+0000039C,39C,Sylviano's,Chicago,Good Decor Good Food Italian Long Drive $15-$30 Good Service 
+0000040C,40C,Rico's,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+0000041C,41C,Kennessey's Cypress,Chicago,Continental Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Excellent Service Traditional 
+0000042C,42C,Jia's,Chicago,Chinese Good Decor Excellent Food $15-$30 Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+0000043C,43C,Jilly's Cafe,Chicago,American (Traditional) An Out Of The Way Find Continental Excellent Decor Excellent Food Game Long Drive $15-$30 Quiet for Conversation Romantic Excellent Service Weekend Brunch 
+0000044C,44C,Sarkis Grill,Chicago,American (Traditional) Coffee Shops Good Decor Diners Excellent Food For the Young and Young at Heart Good for Younger Kids Long Drive Open for Breakfast below $15 Parking/Valet Quirky Excellent Service Weekend Brunch 
+0000045C,45C,Shilla,Chicago,Good Decor Excellent Food Korean $15-$30 Parking/Valet Good Service Short Drive 
+0000046C,46C,I Tre Merli,Chicago,Business Scene Cab Excellent Decor Dining Outdoors Excellent Food Good Out of Town Business Great Place to Meet for a Drink Great for People Watching Italian $15-$30 Parking/Valet Good Service Weekend Brunch 
+0000047C,47C,Dionne's,Chicago,An Out Of The Way Find Extraordinary Decor Near-perfect Food French Little Known But Well Liked Long Drive Need To Dress $15-$30 Romantic Extraordinary Service Walk 
+0000048C,48C,Ristorante Italia,Chicago,Good Decor Excellent Food Italian $15-$30 Good Service Short Drive Weekend Brunch 
+0000049C,49C,P.J. Clarke's,Chicago,American (Traditional) Cab Good Decor Good Food $15-$30 Place for Singles Private Parties Private Rooms Available Pub Feel Good Service See the Game Singles Scene Weekend Brunch 
+0000050C,50C,Houston's,Chicago,American (Traditional) Business Scene Cab Classic Hotel Dining Excellent Decor Excellent Food $15-$30 Place for Singles Excellent Service Weekend Brunch 
+0000051C,51C,Star of Siam,Chicago,Cab Good Decor Excellent Food below $15 Good Service Thai 
+0000052C,52C,BISTRO 110,Chicago,Business Scene Cab Excellent Decor Dining Outdoors Extraordinary Food French Bistro Game Great Place to Meet for a Drink Hip Place To Be $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+0000053C,53C,Bones,Chicago,American (Traditional) Bar-B-Q Good Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+0000054C,54C,Goose Island Brewing Co.,Chicago,American (New) Good Decor Good Food below $15 Parking/Valet People Keep Coming Back Place for Singles Private Parties Private Rooms Available Pub Feel Good Service See the Game Short Drive Singles Scene Weekend Brunch 
+0000055C,55C,Kanval Palace,Chicago,Buffet Dining Good Decor Excellent Food Indian $15-$30 Excellent Service Short Drive 
+0000056C,56C,Avanti Populo,Chicago,Excellent Decor Dining Outdoors Excellent Food Great for People Watching Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service Short Drive Weekend Brunch 
+0000057C,57C,Bella Vista,Chicago,Extraordinary Decor Excellent Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Short Drive Weekend Brunch 
+0000058C,58C,Mirabell,Chicago,Austrian Continental Excellent Decor Excellent Food $15-$30 Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Short Drive Traditional 
+0000059C,59C,Ha Mien,Chicago,Fair Decor Excellent Food below $15 Good Service Short Drive Vietnamese 
+0000060C,60C,Planet Hollywood,Chicago,After Hours Dining American (New) Cab Excellent Decor Good Food For the Young and Young at Heart Great for People Watching Hip Place To Be Late Night Menu No Reservations $15-$30 Parking/Valet People Keep Coming Back Place for Singles Private Parties Private Rooms Available Pub Feel Good Service See the Game Singles Scene Traditional Tourist Appeal Weekend Brunch 
+0000061C,61C,Mity Nice Grill,Chicago,American (New) American (Traditional) Cab Excellent Decor Excellent Food Good for Younger Kids $15-$30 Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Weekend Brunch 
+0000062C,62C,Yvette Wintergarden,Chicago,Cab Excellent Decor Dancing Entertainment Excellent Food French Bistro Great Place to Meet for a Drink $15-$30 Private Parties Private Rooms Available Romantic Excellent Service 
+0000063C,63C,ARUN'S,Chicago,Extraordinary Decor Near-perfect Food Good Out of Town Business Hip Place To Be Long Drive $30-$50 Extraordinary Service Thai Very Busy - Reservations a Must 
+0000064C,64C,Original A-1 Border Beanery,Chicago,Cab Excellent Decor Excellent Food For the Young and Young at Heart Good for Younger Kids $15-$30 Private Parties Private Rooms Available Excellent Service Tex-Mex Weekend Brunch 
+0000065C,65C,Half Shell,Chicago,After Hours Dining Good Decor Excellent Food Late Night Menu No Reservations $15-$30 Good Service Seafood Short Drive Weekend Brunch 
+0000066C,66C,Thai Classic,Chicago,Carry in Wine and Beer Excellent Decor Extraordinary Food below $15 Excellent Service Short Drive Thai 
+0000067C,67C,Red Apple,Chicago,Fair Decor Excellent Food No Reservations No Smoking Allowed below $15 Parking/Valet Polish Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+0000068C,68C,Edwardo's Natural Pizza,Chicago,Cab Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids No Reservations below $15 Pizza Good Service Weekend Brunch 
+0000069C,69C,Toulouse on the Park,Chicago,Extraordinary Decor Excellent Food French (New) Need To Dress $30-$50 Parking/Valet Quiet for Conversation Romantic Extraordinary Service Short Drive Up and Coming Very Busy - Reservations a Must 
+0000070C,70C,Old Barn,Chicago,Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Seafood Steakhouses Weekend Brunch 
+0000071C,71C,Happi Sushi,Chicago,Good Decor Excellent Food Japanese $15-$30 Parking/Valet Excellent Service Short Drive 
+0000072C,72C,Villa Fiori,Chicago,Excellent Decor Good Food Italian Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Excellent Service 
+0000073C,73C,Shish Kabab House,Chicago,Good Decor Good Food Middle Eastern $15-$30 Relaxed Senior Scene Good Service Short Drive 
+0000074C,74C,Tre Kronor,Chicago,Authentic Carry in Wine and Beer Good Decor Good Food $15-$30 Relaxed Senior Scene Good Service Scandinavian Short Drive 
+0000075C,75C,Johnny Rockets,Chicago,After Hours Dining Cab Coffee Shops Good Decor Diners Dining Outdoors Good Food For the Young and Young at Heart Good for Younger Kids Hamburgers Late Night Menu No Reservations below $15 People Keep Coming Back Good Service Weekend Brunch 
+0000076C,76C,Public Landing,Chicago,American (Regional) An Out Of The Way Find Extraordinary Decor Extraordinary Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+0000077C,77C,Charlie Beinlich's,Chicago,American (Traditional) Good Decor Excellent Food Hamburgers Long Drive No Reservations below $15 Parking/Valet Relaxed Senior Scene Excellent Service Weekend Brunch 
+0000078C,78C,Lou Mitchell's,Chicago,American (Traditional) An Historic Spot Cab Coffee Shops Good Decor Delivery Available Diners Excellent Food No Liquor Served No Reservations Open for Breakfast below $15 Relaxed Senior Scene Excellent Service Takeout Available Weekend Brunch 
+0000079C,79C,Finkl's World Famous Deli,Chicago,Cab Catering for Special Events Fair Decor Deli Good Food Good for Younger Kids Jewish No Reservations Open for Breakfast below $15 Relaxed Senior Scene Good Service Weekend Brunch 
+0000080C,80C,El Tipico,Chicago,After Hours Dining Good Decor Excellent Food Late Night Menu Mexican No Reservations $15-$30 Excellent Service Short Drive Weekend Brunch 
+0000081C,81C,Strega Nona,Chicago,Good Decor Good Food Italian $15-$30 Good Service Short Drive Up and Coming 
+0000082C,82C,Neon Greek Village,Chicago,After Hours Dining Cab Good Decor Dancing Entertainment Good Food Greek Late Night Menu $15-$30 Parking/Valet Good Service 
+0000083C,83C,Mareva's,Chicago,Continental Excellent Decor Excellent Food $15-$30 Polish Excellent Service Short Drive 
+0000084C,84C,Topo Gigio at the Park,Chicago,Good Decor Excellent Food Italian $15-$30 Excellent Service Short Drive 
+0000085C,85C,Daily Bar & Grill,Chicago,American (Traditional) Creative Good Decor Good Food $15-$30 Place for Singles Pub Feel Good Service See the Game Short Drive Singles Scene Weekend Brunch 
+0000086C,86C,Chicago Chop House,Chicago,Cab Excellent Decor Dancing Entertainment Extraordinary Food $30-$50 Parking/Valet Private Parties Private Rooms Available Pub Feel Excellent Service See the Game Singles Scene Steakhouses Tourist Appeal Weekend Brunch 
+0000087C,87C,Russian Tea Time,Chicago,Authentic Cab Excellent Decor Excellent Food $15-$30 Private Parties Private Rooms Available Quiet for Conversation Relaxed Senior Scene Romantic Russian Excellent Service Weekend Brunch 
+0000088C,88C,Bacchanalia,Chicago,Good Decor Extraordinary Food Italian Little Known But Well Liked $15-$30 Excellent Service Short Drive Weekend Brunch 
+0000089C,89C,Intimate China,Chicago,Chinese Excellent Decor Extraordinary Food below $15 Extraordinary Service Short Drive 
+0000090C,90C,Prairie,Chicago,American (Regional) Business Scene Classic Hotel Dining Extraordinary Decor Extraordinary Food Fabulous Wine Lists Game Good Out of Town Business $30-$50 Parking/Valet Private Parties Private Rooms Available Extraordinary Service Short Drive 
+0000091C,91C,Binyon's,Chicago,American (Traditional) An Historic Spot Business Scene Cab Good Decor Excellent Food German $15-$30 Parking/Valet Power Brokers Excellent Service Traditional 
+0000092C,92C,Los Magueyes,Chicago,Good Decor Good Food For the Young and Young at Heart Good for Younger Kids Long Drive Mexican $15-$30 Parking/Valet Good Service 
+0000093C,93C,Uncle Julio's Hacienda,Chicago,Cab Good Decor Good Food Mexican No Reservations $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service Weekend Brunch 
+0000094C,94C,Clark Street Bistro,Chicago,Good Decor Good Food Mediterranean $15-$30 Parking/Valet Good Service Short Drive Weekend Brunch 
+0000095C,95C,Bacino's,Chicago,Cab Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Italian below $15 Pizza Good Service Weekend Brunch 
+0000096C,96C,Heidelberger Fass,Chicago,Excellent Decor Excellent Food Game German $15-$30 Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+0000097C,97C,Chicago Pizza & Oven Grinder,Chicago,Good Decor Excellent Food No Reservations below $15 Pizza Good Service Weekend Brunch 
+0000098C,98C,Franco's Ristorante,Chicago,Good Decor Extraordinary Food Italian Little Known But Well Liked $15-$30 Excellent Service Short Drive 
+0000099C,99C,Rio Latin Tapas,Chicago,Cab Good Decor Dancing Entertainment Extraordinary Food Little Known But Well Liked below $15 Excellent Service South American Tapas 
+00000100C,100C,Gene & Georgetti,Chicago,Business Scene Cab Good Decor Good Food Good Out of Town Business $15-$30 Parking/Valet Power Brokers Private Parties Private Rooms Available Good Service Steakhouses 
+00000101C,101C,Raj Darbar,Chicago,Good Decor Excellent Food Indian $15-$30 Parking/Valet Excellent Service Short Drive 
+00000102C,102C,Carmen's,Chicago,Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Italian Long Drive below $15 Pizza Good Service Weekend Brunch 
+00000103C,103C,Pane Caldo,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Quiet for Conversation Romantic Excellent Service Very Busy - Reservations a Must Weekend Brunch 
+00000104C,104C,Suntory,Chicago,Cab Extraordinary Decor Excellent Food Japanese $30-$50 Parking/Valet Private Parties Private Rooms Available Excellent Service 
+00000105C,105C,AMBRIA,Chicago,Near-perfect Decor Near-perfect Food Fabulous Wine Lists French (New) Game Good Out of Town Business Hip Place To Be Need To Dress over $50 Parking/Valet Power Brokers Private Parties Private Rooms Available Prix Fixe Menus Romantic Near-perfect Service Short Drive Very Busy - Reservations a Must 
+00000106C,106C,Russell's Barbecue,Chicago,Bar-B-Q Fair Decor Dining Outdoors Excellent Food For the Young and Young at Heart Good for Younger Kids Long Drive No Reservations below $15 Parking/Valet Good Service Traditional Weekend Brunch Wheelchair Access 
+00000107C,107C,Saloon,Chicago,American (Traditional) Business Scene Cab Classic Hotel Dining Excellent Decor Excellent Food Good Out of Town Business Great Place to Meet for a Drink $30-$50 Parking/Valet Excellent Service Steakhouses Very Busy - Reservations a Must 
+00000108C,108C,Carlos & Carlos,Chicago,Excellent Decor Excellent Food Italian Long Drive $15-$30 Parking/Valet Excellent Service 
+00000109C,109C,Mi Casa Su Casa,Chicago,After Hours Dining Good Decor Dining Outdoors Good Food Late Night Menu Mexican $15-$30 Private Parties Private Rooms Available Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000110C,110C,Green Door Tavern,Chicago,Authentic American (Traditional) An Historic Spot Cab Good Decor Dining Outdoors Good Food below $15 People Keep Coming Back Place for Singles Good Service 
+00000111C,111C,Taboo Bistro 'N' Bar,Chicago,Creative Good Decor Eclectic Good Food Long Drive $15-$30 Quirky Good Service 
+00000112C,112C,Fondue Stube,Chicago,Carry in Wine and Beer Good Decor Excellent Food Fondue $15-$30 Romantic Excellent Service Short Drive Traditional Weekend Brunch 
+00000113C,113C,Mozart Cafe,Chicago,Carry in Wine and Beer Coffeehouses Good Decor Dining Outdoors Good Food Focus on Dessert Fountain and Ice Cream below $15 Good Service Short Drive Weekend Brunch 
+00000114C,114C,Manny's Coffee Shop & Deli,Chicago,Cab Catering for Special Events Coffee Shops Fair Decor Deli Diners Extraordinary Food Jewish Open for Breakfast below $15 Parking/Valet Relaxed Senior Scene Good Service Weekend Brunch 
+00000115C,115C,Cafe Borgia,Chicago,Carry in Wine and Beer Good Decor Extraordinary Food Italian Long Drive $15-$30 Excellent Service Weekend Brunch 
+00000116C,116C,Nick's Fishmarket,Chicago,Business Scene Cab Extraordinary Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Need To Dress $30-$50 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service Seafood Very Busy - Reservations a Must Weekend Brunch 
+00000117C,117C,Lou Malnati's Pizzeria,Chicago,After Hours Dining Cab Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Late Night Menu below $15 Parking/Valet Pizza Good Service Weekend Brunch 
+00000118C,118C,Julie Mai's Le Bistro,Chicago,Good Decor Excellent Food French (New) $15-$30 Relaxed Senior Scene Good Service Short Drive Vietnamese 
+00000119C,119C,Jane's,Chicago,Excellent Decor Dining Outdoors Excellent Food Health Food $15-$30 Excellent Service Short Drive Vegetarian Weekend Brunch 
+00000120C,120C,Lawry's the Prime Rib,Chicago,Business Scene Cab Extraordinary Decor Extraordinary Food Good Out of Town Business $15-$30 Parking/Valet Private Parties Private Rooms Available Extraordinary Service Steakhouses Very Busy - Reservations a Must Weekend Brunch 
+00000121C,121C,Relish,Chicago,American (New) Excellent Decor Dining Outdoors Eclectic Excellent Food $15-$30 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Excellent Service Short Drive Weekend Brunch 
+00000122C,122C,Lulu's,Chicago,Asian Creative Good Decor Excellent Food Japanese Long Drive No Reservations below $15 Excellent Service Weekend Brunch Wheelchair Access 
+00000123C,123C,Wayside Manor,Chicago,An Out Of The Way Find Extraordinary Decor Extraordinary Food French Little Known But Well Liked Long Drive Need To Dress $15-$30 Quiet for Conversation Romantic Extraordinary Service 
+00000124C,124C,Shree,Chicago,Carry in Wine and Beer Good Decor Good Food Indian Long Drive $15-$30 Good Service 
+00000125C,125C,La Strada,Chicago,Business Scene Cab Excellent Decor Dancing Entertainment Excellent Food Italian $30-$50 Romantic Excellent Service 
+00000126C,126C,Gypsy,Chicago,Business Scene Cab Excellent Decor Dining Outdoors Excellent Food Mediterranean $15-$30 Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000127C,127C,Amourette,Chicago,An Out Of The Way Find Excellent Decor Extraordinary Food French Game Long Drive $15-$30 Prix Fixe Menus Romantic Extraordinary Service Very Busy - Reservations a Must Weekend Brunch 
+00000128C,128C,Benihana of Tokyo,Chicago,Cab Classic Hotel Dining Excellent Decor Excellent Food Good Out of Town Business Japanese $15-$30 Parking/Valet Excellent Service 
+00000129C,129C,Hong Min,Chicago,After Hours Dining Chinese Fair Decor Dim Sum Extraordinary Food Late Night Menu below $15 Good Service Short Drive Weekend Brunch 
+00000130C,130C,Kinzie Street Chophouse,Chicago,Business Scene Cab Excellent Decor Excellent Food $15-$30 Private Parties Private Rooms Available Excellent Service Steakhouses Weekend Brunch 
+00000131C,131C,Cross-Rhodes,Chicago,American (Traditional) Fair Decor Delivery Available Excellent Food Greek Long Drive No Reservations below $15 Excellent Service Takeout Available Weekend Brunch 
+00000132C,132C,City Tavern,Chicago,American (Traditional) Cab Good Decor Delivery Available Good Food $15-$30 People Keep Coming Back Good Service Takeout Available 
+00000133C,133C,Ed Debevic's Short Orders Deluxe,Chicago,After Hours Dining American (Traditional) Coffee Shops Excellent Decor Diners Dining Outdoors Good Food For the Young and Young at Heart Good for Younger Kids Late Night Menu No Reservations below $15 Parking/Valet People Keep Coming Back Private Parties Private Rooms Available Quirky Excellent Service Tourist Appeal Weekend Brunch 
+00000134C,134C,Leona's Neighborhood Place,Chicago,After Hours Dining Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Italian Late Night Menu $15-$30 Pizza Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000135C,135C,Las Fuentes,Chicago,Good Decor Dining Outdoors Good Food Margaritas Mexican $15-$30 Parking/Valet Good Service Short Drive 
+00000136C,136C,Vernon Park Tap,Chicago,An Historic Spot Good Decor Good Food Italian $15-$30 Parking/Valet Relaxed Senior Scene Good Service Short Drive 
+00000137C,137C,Greek Islands,Chicago,Authentic After Hours Dining Cab Excellent Decor Excellent Food Greek Late Night Menu $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Tourist Appeal Weekend Brunch 
+00000138C,138C,Cote Rotie,Chicago,An Out Of The Way Find Business Scene Extraordinary Decor Excellent Food Long Drive Mediterranean $15-$30 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Good Service Up and Coming Weekend Brunch 
+00000139C,139C,King Wah,Chicago,Creative Cab Chinese Good Decor Excellent Food below $15 Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000140C,140C,Rosded,Chicago,Good Decor Excellent Food $15-$30 Relaxed Senior Scene Excellent Service Short Drive Thai 
+00000141C,141C,Hatsuhana,Chicago,Business Scene Cab Excellent Decor Extraordinary Food Good Out of Town Business Japanese $15-$30 Excellent Service 
+00000142C,142C,Oceanique,Chicago,An Out Of The Way Find Creative Excellent Decor Extraordinary Food French Long Drive $30-$50 Prix Fixe Menus Extraordinary Service 
+00000143C,143C,Moon Palace,Chicago,Chinese Good Decor Excellent Food $15-$30 Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000144C,144C,Le Bouchon,Chicago,Authentic Excellent Decor Extraordinary Food French Bistro Hip Place To Be $15-$30 Parking/Valet Romantic Excellent Service Short Drive Up and Coming Very Busy - Reservations a Must 
+00000145C,145C,Harry G's Crab & Steak House,Chicago,Good Decor Excellent Food Long Drive $15-$30 Good Service Seafood Steakhouses 
+00000146C,146C,Southgate Cafe,Chicago,American (Traditional) Creative Excellent Decor Excellent Food Good for Younger Kids Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000147C,147C,Ristorante Agostino,Chicago,Good Decor Extraordinary Food Italian Little Known But Well Liked $15-$30 Extraordinary Service Short Drive 
+00000148C,148C,MAGGIANO'S LITTLE ITALY,Chicago,Business Scene Cab Excellent Decor Dining Outdoors Excellent Food Good Out of Town Business Hip Place To Be Italian $15-$30 Parking/Valet Power Brokers Private Parties Private Rooms Available Excellent Service Very Busy - Reservations a Must Weekend Brunch 
+00000149C,149C,Fresh Starts,Chicago,American (New) Creative Carry in Wine and Beer Catering for Special Events Good Decor Delivery Available Eclectic Excellent Food Little Known But Well Liked Long Drive $15-$30 Excellent Service Takeout Available 
+00000150C,150C,Kuni's,Chicago,Good Decor Extraordinary Food Japanese Long Drive $15-$30 Excellent Service 
+00000151C,151C,Trattoria Dinotto,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Excellent Service Weekend Brunch 
+00000152C,152C,Cafe du Midi,Chicago,Excellent Decor Dining Outdoors Excellent Food French Bistro $15-$30 Romantic Excellent Service Short Drive Weekend Brunch 
+00000153C,153C,Eli's the Place for Steaks,Chicago,Cab Excellent Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink $30-$50 Parking/Valet Excellent Service Steakhouses Weekend Brunch 
+00000154C,154C,Natraj,Chicago,Carry in Wine and Beer Good Decor Good Food Indian $15-$30 Good Service Short Drive 
+00000155C,155C,Il Fornaio,Chicago,Excellent Decor Excellent Food Italian $15-$30 Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000156C,156C,St. Germain Bakery-Cafe,Chicago,Bakeries Cab Excellent Decor Delivery Available Excellent Food French Bistro Open for Breakfast $15-$30 Good Service Takeout Available Weekend Brunch 
+00000157C,157C,Siam Square,Chicago,Cab Good Decor Good Food below $15 Good Service Thai Wheelchair Access 
+00000158C,158C,Russian Palace,Chicago,Cab Good Decor Dining After the Theater Good Food $15-$30 Private Parties Private Rooms Available Quiet for Conversation Relaxed Senior Scene Romantic Russian Good Service Weekend Brunch 
+00000159C,159C,Klay Oven,Chicago,Business Scene Cab Excellent Decor Extraordinary Food Indian $15-$30 Excellent Service 
+00000160C,160C,La Paella,Chicago,Excellent Decor Excellent Food $15-$30 Parking/Valet Romantic Excellent Service Short Drive Spanish Traditional Weekend Brunch 
+00000161C,161C,Honda,Chicago,Business Scene Cab Excellent Decor Excellent Food Good Out of Town Business Japanese $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service 
+00000162C,162C,Shaw's Crab House & Blue Crab,Chicago,Business Scene Cab Excellent Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Seafood Weekend Brunch 
+00000163C,163C,Catch 35,Chicago,Business Scene Cab Excellent Decor Dancing Entertainment Excellent Food Good Out of Town Business Great Place to Meet for a Drink $15-$30 Parking/Valet Power Brokers Private Parties Private Rooms Available Excellent Service Seafood 
+00000164C,164C,GIBSONS BAR & STEAKHOUSE,Chicago,Cab Excellent Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Great for People Watching Hip Place To Be $30-$50 Parking/Valet Place for Singles Private Parties Private Rooms Available Pub Feel Extraordinary Service See the Game Singles Scene Steakhouses Tourist Appeal Very Busy - Reservations a Must Weekend Brunch 
+00000165C,165C,Le Loup Cafe,Chicago,Good Decor Dining Outdoors Excellent Food French (New) $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000166C,166C,Barry's Ribs & More,Chicago,American (Traditional) Bar-B-Q Fair Decor Delivery Available Excellent Food Good for Younger Kids Long Drive below $15 Parking/Valet Good Service Takeout Available Weekend Brunch 
+00000167C,167C,Grand and Wells Tap,Chicago,Business Scene Cab Good Decor Excellent Food $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Steakhouses Weekend Brunch 
+00000168C,168C,TALLGRASS,Chicago,An Out Of The Way Find Cab Extraordinary Decor Near-perfect Food French (New) Need To Dress $30-$50 Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service Very Busy - Reservations a Must Weekend Brunch 
+00000169C,169C,Primavera,Chicago,Business Scene Cab Classic Hotel Dining Extraordinary Decor Dancing Entertainment Excellent Food Italian $30-$50 Parking/Valet Extraordinary Service 
+00000170C,170C,Trattoria Ginotto,Chicago,Good Decor Excellent Food Italian Little Known But Well Liked Long Drive $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000171C,171C,Bruna's Ristorante,Chicago,Good Decor Excellent Food Italian $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000172C,172C,Costa d'Oro,Chicago,Business Scene Cab Extraordinary Decor Extraordinary Food Good Out of Town Business Italian $30-$50 Parking/Valet Quiet for Conversation Excellent Service Up and Coming Very Busy - Reservations a Must 
+00000173C,173C,Tien Tsin,Chicago,Carry in Wine and Beer Chinese Good Decor Excellent Food Long Drive $15-$30 Excellent Service Weekend Brunch 
+00000174C,174C,Bistro Europa,Chicago,An Out Of The Way Find Continental Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Excellent Service Up and Coming Weekend Brunch 
+00000175C,175C,Sage's,Chicago,American (Traditional) Business Scene Classic Hotel Dining Excellent Decor Extraordinary Food Good Out of Town Business Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Extraordinary Service 
+00000176C,176C,Mei Shung,Chicago,Carry in Wine and Beer Chinese Fair Decor Excellent Food $15-$30 Good Service Short Drive 
+00000177C,177C,Ceiling Zero,Chicago,Continental Excellent Decor Excellent Food French (New) Long Drive $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000178C,178C,Lino's,Chicago,Business Scene Cab Excellent Decor Extraordinary Food Good Out of Town Business Italian $15-$30 Parking/Valet Power Brokers Excellent Service 
+00000179C,179C,Nookies Tree,Chicago,American (Traditional) Fair Decor Good Food For the Young and Young at Heart Good for Younger Kids No Reservations Open for Breakfast below $15 Good Service Short Drive Weekend Brunch 
+00000180C,180C,El Dinamico Dallas,Chicago,Caribbean Carry in Wine and Beer Good Decor Delivery Available Good Food No Reservations $15-$30 Good Service Short Drive Takeout Available Weekend Brunch 
+00000181C,181C,Staropolska,Chicago,Buffet Dining Good Decor Good Food $15-$30 Parking/Valet Polish Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000182C,182C,Grecian Taverna,Chicago,Good Decor Excellent Food Greek $15-$30 Relaxed Senior Scene Good Service Short Drive 
+00000183C,183C,Jack Gibbons Garden,Chicago,Good Decor Extraordinary Food Little Known But Well Liked Long Drive No Reservations $15-$30 Parking/Valet Excellent Service Steakhouses Weekend Brunch 
+00000184C,184C,Adagio,Chicago,Good Decor Dancing Entertainment Good Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service Short Drive Walk Weekend Brunch 
+00000185C,185C,Thai 55th,Chicago,Fair Decor Excellent Food Long Drive below $15 Good Service Traditional Thai 
+00000186C,186C,Rosebud,Chicago,Excellent Decor Extraordinary Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Short Drive Traditional Very Busy - Reservations a Must Weekend Brunch 
+00000187C,187C,MONTPARNASSE,Chicago,An Out Of The Way Find Business Scene Extraordinary Decor Near-perfect Food Fabulous Wine Lists French (New) Good Out of Town Business Long Drive $30-$50 Parking/Valet Private Parties Private Rooms Available Romantic Extraordinary Service Very Busy - Reservations a Must 
+00000188C,188C,Tavern in the Town,Chicago,American (New) An Out Of The Way Find Extraordinary Decor Extraordinary Food Little Known But Well Liked Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Extraordinary Service 
+00000189C,189C,Cafe Spiaggia,Chicago,Cab Extraordinary Decor Extraordinary Food Italian $15-$30 Extraordinary Service Weekend Brunch 
+00000190C,190C,La Bella Pasteria,Chicago,Excellent Decor Excellent Food Italian Long Drive $15-$30 Excellent Service Weekend Brunch 
+00000191C,191C,Hubbard Street Grill,Chicago,American (New) Business Scene Cab Excellent Decor Excellent Food Great Place to Meet for a Drink Hip Place To Be $15-$30 Parking/Valet Excellent Service Up and Coming Weekend Brunch 
+00000192C,192C,Walker Bros.,Chicago,American (Traditional) Excellent Decor Extraordinary Food For the Young and Young at Heart Good for Younger Kids Long Drive Open for Breakfast below $15 Relaxed Senior Scene Excellent Service 
+00000193C,193C,Mykonos,Chicago,Excellent Decor Excellent Food Greek Long Drive $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000194C,194C,Estaloca,Chicago,Cab Good Decor Dining Outdoors Good Food $15-$30 Good Service Tex-Mex 
+00000195C,195C,N.N. Smokehouse,Chicago,Bar-B-Q Good Decor Dancing Entertainment Good Food No Smoking Allowed $15-$30 Good Service Short Drive 
+00000196C,196C,Tra Via,Chicago,Creative Excellent Decor Extraordinary Food Italian Little Known But Well Liked $15-$30 Parking/Valet Excellent Service Short Drive Weekend Brunch 
+00000197C,197C,Michael Jordan's,Chicago,American (New) Business Scene Cab Excellent Decor Good Food Great for People Watching Hip Place To Be $15-$30 Parking/Valet People Keep Coming Back Private Parties Private Rooms Available Pub Feel Good Service See the Game Singles Scene Weekend Brunch 
+00000198C,198C,Mill Race Inn,Chicago,American (Traditional) An Out Of The Way Find Cab Extraordinary Decor Dining Outdoors Excellent Food $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000199C,199C,LE VICHYSSOIS,Chicago,An Out Of The Way Find Extraordinary Decor Extraordinary Food Fabulous Wine Lists French (New) Game Long Drive Need To Dress $30-$50 Parking/Valet Private Parties Private Rooms Available Prix Fixe Menus Quiet for Conversation Romantic Extraordinary Service Very Busy - Reservations a Must Walk Weekend Brunch 
+00000200C,200C,Cy's Crab House,Chicago,Fair Decor Good Food $15-$30 Parking/Valet Good Service Seafood Short Drive Weekend Brunch 
+00000201C,201C,Red Lion Pub,Chicago,Authentic Excellent Decor English Good Food No Reservations below $15 Place for Singles Pub Feel Good Service See the Game Short Drive Singles Scene Traditional Weekend Brunch 
+00000202C,202C,Mama Desta's Red Sea,Chicago,Fair Decor Ethiopian Excellent Food below $15 Good Service Short Drive Weekend Brunch 
+00000203C,203C,Zinfandel,Chicago,American (Regional) Business Scene Cab Excellent Decor Extraordinary Food Great Place to Meet for a Drink $15-$30 Parking/Valet Excellent Service Up and Coming Weekend Brunch 
+00000204C,204C,Breakfast Club,Chicago,American (Traditional) Creative Cab Good Decor Excellent Food No Reservations Open for Breakfast below $15 Relaxed Senior Scene Excellent Service 
+00000205C,205C,Thai Room,Chicago,Cab Good Decor Extraordinary Food below $15 Relaxed Senior Scene Excellent Service Thai Wheelchair Access 
+00000206C,206C,Golden Ox,Chicago,An Historic Spot Excellent Decor Dancing Entertainment Excellent Food Game German $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000207C,207C,El Presidente,Chicago,After Hours Dining Carry in Wine and Beer Fair Decor Dining Outdoors Good Food Late Night Menu Mexican No Reservations below $15 Good Service Short Drive Weekend Brunch 
+00000208C,208C,Lloyd's,Chicago,American (Traditional) Business Scene Cab Good Decor Good Food $15-$30 Good Service Traditional 
+00000209C,209C,Gilardi's,Chicago,Excellent Decor Excellent Food Italian Long Drive $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000210C,210C,Szechwan Palace,Chicago,Buffet Dining Chinese Good Decor Excellent Food Long Drive $15-$30 Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000211C,211C,La Cantina,Chicago,Business Scene Cab Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service 
+00000212C,212C,Daniel J's,Chicago,American (New) Creative Good Decor Extraordinary Food $15-$30 Quiet for Conversation Excellent Service Short Drive Up and Coming Weekend Brunch 
+00000213C,213C,Sabatino's,Chicago,Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Short Drive Weekend Brunch 
+00000214C,214C,Tehran,Chicago,Good Decor Excellent Food below $15 Persian Good Service Short Drive 
+00000215C,215C,Lutnia,Chicago,Excellent Decor Excellent Food $15-$30 Polish Relaxed Senior Scene Excellent Service Short Drive Traditional Weekend Brunch 
+00000216C,216C,Stevie B's,Chicago,Bar-B-Q Fair Decor Delivery Available Excellent Food For the Young and Young at Heart Good for Younger Kids $15-$30 Parking/Valet Good Service Short Drive Takeout Available Weekend Brunch 
+00000217C,217C,Tommy Nevin's Pub,Chicago,After Hours Dining Good Decor Dancing Entertainment Good Food Irish Late Night Menu Long Drive $15-$30 Good Service Weekend Brunch 
+00000218C,218C,Zaven's,Chicago,Cab Continental Extraordinary Decor Extraordinary Food $30-$50 Parking/Valet Private Parties Private Rooms Available Extraordinary Service 
+00000219C,219C,Dick's Last Resort,Chicago,After Hours Dining American (Traditional) Cab Good Decor Dancing Dining Outdoors Eclectic Entertainment Good Food For the Young and Young at Heart Good for Younger Kids Late Night Menu $15-$30 People Keep Coming Back Place for Singles Pub Feel Good Service See the Game Singles Scene Weekend Brunch 
+00000220C,220C,Twin Anchors,Chicago,An Historic Spot Bar-B-Q Good Decor Extraordinary Food $15-$30 Excellent Service Short Drive Traditional Weekend Brunch 
+00000221C,221C,Leona's on Taylor,Chicago,Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Italian $15-$30 Parking/Valet Pizza Private Parties Private Rooms Available Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000222C,222C,Parthenon,Chicago,After Hours Dining Cab Good Decor Excellent Food Greek Late Night Menu $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Traditional Tourist Appeal Very Busy - Reservations a Must Weekend Brunch 
+00000223C,223C,Avanzare,Chicago,Business Scene Cab Extraordinary Decor Dining Outdoors Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Hip Place To Be Italian $30-$50 Private Parties Private Rooms Available Romantic Extraordinary Service Weekend Brunch 
+00000224C,224C,Duke of Perth,Chicago,Authentic Excellent Decor Good Food below $15 Place for Singles Pub Feel Excellent Service Scottish See the Game Short Drive Singles Scene Weekend Brunch 
+00000225C,225C,Cafe La Cave,Chicago,An Out Of The Way Find Continental Extraordinary Decor Extraordinary Food Long Drive $30-$50 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service Very Busy - Reservations a Must Weekend Brunch 
+00000226C,226C,Froggy's,Chicago,An Out Of The Way Find Excellent Decor Extraordinary Food French Bistro Game Long Drive $15-$30 Private Parties Private Rooms Available Prix Fixe Menus Quiet for Conversation Romantic Extraordinary Service 
+00000227C,227C,Hard Rock Cafe,Chicago,Cab Excellent Decor Eclectic Good Food For the Young and Young at Heart Good for Younger Kids Hamburgers Hip Place To Be No Reservations $15-$30 Parking/Valet People Keep Coming Back Private Parties Private Rooms Available Pub Feel Quirky Good Service See the Game Singles Scene Tourist Appeal Weekend Brunch 
+00000228C,228C,Nana's,Chicago,Cab Fair Decor Delivery Available Dining Outdoors Excellent Food Italian $15-$30 Excellent Service Takeout Available 
+00000229C,229C,Tuscany,Chicago,Business Scene Excellent Decor Extraordinary Food Italian $15-$30 Parking/Valet Power Brokers Excellent Service Short Drive Very Busy - Reservations a Must Weekend Brunch 
+00000230C,230C,Scoozi!,Chicago,Business Scene Cab Extraordinary Decor Extraordinary Food Great for People Watching Hip Place To Be Italian $15-$30 Parking/Valet Pizza Excellent Service Tourist Appeal Weekend Brunch 
+00000231C,231C,Itto Sushi,Chicago,Good Decor Excellent Food Japanese $15-$30 Parking/Valet Excellent Service Short Drive 
+00000232C,232C,Tucci Milan,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Power Brokers Excellent Service Traditional Weekend Brunch 
+00000233C,233C,Gusto Italiano,Chicago,Authentic Good Decor Dining Outdoors Excellent Food Italian Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Traditional 
+00000234C,234C,Bertucci's Pizzeria,Chicago,Cab Good Decor Good Food For the Young and Young at Heart Good for Younger Kids Italian below $15 Parking/Valet Pizza Good Service Traditional Weekend Brunch 
+00000235C,235C,Song Huong,Chicago,Carry in Wine and Beer Fair Decor Extraordinary Food Little Known But Well Liked below $15 Relaxed Senior Scene Good Service Short Drive Vietnamese Weekend Brunch 
+00000236C,236C,Vita,Chicago,Business Scene Cab Good Decor Good Food Italian $15-$30 Parking/Valet Good Service Up and Coming 
+00000237C,237C,Gandhi Indian,Chicago,Buffet Dining Fair Decor Excellent Food Indian $15-$30 Good Service Short Drive 
+00000238C,238C,Salaam,Chicago,American (Traditional) Buffet Dining Continental Good Decor Good Food Long Drive No Liquor Served No Smoking Allowed $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service Weekend Brunch 
+00000239C,239C,Spavone's Seven Hills,Chicago,Excellent Decor Excellent Food Italian Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000240C,240C,Mondelli's on Grand,Chicago,Cab Good Decor Excellent Food Italian $15-$30 Excellent Service Weekend Brunch 
+00000241C,241C,La Perla del Mediterraneo,Chicago,Excellent Decor Dancing Entertainment Extraordinary Food Long Drive Mediterranean $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Very Busy - Reservations a Must Weekend Brunch 
+00000242C,242C,LE TITI DE PARIS,Chicago,An Out Of The Way Find Extraordinary Decor Near-perfect Food Fabulous Wine Lists French Game Long Drive Need To Dress $30-$50 Parking/Valet Pre-theater Dining Private Parties Private Rooms Available Quiet for Conversation Romantic Near-perfect Service Very Busy - Reservations a Must 
+00000243C,243C,Pappagallo's,Chicago,Good Decor Good Food Italian Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Good Service 
+00000244C,244C,Spasso,Chicago,An Out Of The Way Find Creative Extraordinary Decor Extraordinary Food Italian Little Known But Well Liked Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Romantic Extraordinary Service Weekend Brunch 
+00000245C,245C,Joe-n-Giuseppe,Chicago,Excellent Decor Extraordinary Food Italian Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000246C,246C,GABRIEL'S,Chicago,An Out Of The Way Find Extraordinary Decor Near-perfect Food French (New) Good Out of Town Business Hip Place To Be Italian Long Drive Need To Dress $30-$50 Private Parties Private Rooms Available Prix Fixe Menus Quiet for Conversation Romantic Extraordinary Service Up and Coming Very Busy - Reservations a Must 
+00000247C,247C,Tecalitan,Chicago,After Hours Dining Good Decor Excellent Food Late Night Menu Mexican below $15 Good Service Short Drive Weekend Brunch 
+00000248C,248C,Oodles of Noodles,Chicago,Asian Good Decor Good Food Fine for Dining Alone $15-$30 Good Service Short Drive Weekend Brunch 
+00000249C,249C,Tutto Bene,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service Traditional Weekend Brunch 
+00000250C,250C,Cape Cod Room,Chicago,An Historic Spot Business Scene Cab Classic Hotel Dining Extraordinary Decor Extraordinary Food Good Out of Town Business Need To Dress $30-$50 Parking/Valet Extraordinary Service Seafood Weekend Brunch 
+00000251C,251C,Nhu Hoa Cafe,Chicago,Fair Decor Excellent Food below $15 Good Service Short Drive Vietnamese 
+00000252C,252C,Father and Son Pizza,Chicago,After Hours Dining Good Decor Good Food For the Young and Young at Heart Good for Younger Kids Italian Late Night Menu below $15 Parking/Valet People Keep Coming Back Pizza Good Service Short Drive Traditional Weekend Brunch 
+00000253C,253C,Geja's Cafe,Chicago,Good Decor Dancing Entertainment Good Food Fabulous Wine Lists Fondue $15-$30 Parking/Valet Romantic Good Service Short Drive Very Busy - Reservations a Must Walk Weekend Brunch 
+00000254C,254C,Gavroche,Chicago,After Hours Dining Good Decor Dancing Entertainment Excellent Food French Bistro Late Night Menu $15-$30 Excellent Service Short Drive 
+00000255C,255C,Mandar-Inn,Chicago,Chinese Excellent Decor Extraordinary Food Little Known But Well Liked $15-$30 Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000256C,256C,Crown Room,Chicago,American (New) Cab Classic Hotel Dining Good Decor Good Food $15-$30 Good Service 
+00000257C,257C,Garardo's Cafe,Chicago,Good Decor Good Food Italian Little Known But Well Liked Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Good Service 
+00000258C,258C,Sayat Nova,Chicago,Cab Excellent Decor Excellent Food Middle Eastern $15-$30 Quiet for Conversation Excellent Service 
+00000259C,259C,Piatti,Chicago,Creative Cab Excellent Decor Dining Outdoors Excellent Food Italian Mediterranean $15-$30 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Good Service Up and Coming Weekend Brunch 
+00000260C,260C,SPIAGGIA,Chicago,Cab Near-perfect Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Italian Need To Dress $30-$50 Private Parties Private Rooms Available Extraordinary Service Very Busy - Reservations a Must Weekend Brunch 
+00000261C,261C,Old Jerusalem,Chicago,Cab Carry in Wine and Beer Fair Decor Excellent Food Middle Eastern No Reservations below $15 Good Service 
+00000262C,262C,Cafe Luciano,Chicago,Business Scene Cab Excellent Decor Dining Outdoors Excellent Food Italian $15-$30 Parking/Valet Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000263C,263C,Panda Panda,Chicago,Chinese Excellent Decor Excellent Food Long Drive $15-$30 Excellent Service 
+00000264C,264C,Helmand,Chicago,Afghanistan Excellent Decor Extraordinary Food $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000265C,265C,J.P.'s Eating Place,Chicago,Good Decor Excellent Food Mexican $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Seafood Short Drive Weekend Brunch 
+00000266C,266C,Via Veneto,Chicago,Good Decor Excellent Food Italian Long Drive $15-$30 Quiet for Conversation Excellent Service Weekend Brunch 
+00000267C,267C,Cassis,Chicago,Cab Good Decor Good Food French (New) $15-$30 Good Service Up and Coming 
+00000268C,268C,Ibis,Chicago,Good Decor Good Food $15-$30 Puerto Rican Good Service Short Drive Weekend Brunch 
+00000269C,269C,Thai Star Cafe,Chicago,Cab Carry in Wine and Beer Fair Decor Excellent Food below $15 Good Service Thai 
+00000270C,270C,Yasuke,Chicago,Good Decor Good Food Japanese Long Drive $15-$30 Parking/Valet Good Service 
+00000271C,271C,Leona's,Chicago,Good Decor Good Food For the Young and Young at Heart Good for Younger Kids Italian Long Drive $15-$30 Parking/Valet Pizza Private Parties Private Rooms Available Relaxed Senior Scene Good Service Weekend Brunch 
+00000272C,272C,La Bocca della Verita,Chicago,Good Decor Good Food Italian $15-$30 Good Service Short Drive 
+00000273C,273C,Bertucci's,Chicago,Excellent Decor Excellent Food Italian No Reservations $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000274C,274C,Sanko,Chicago,After Hours Dining Excellent Decor Excellent Food Japanese Late Night Menu below $15 Good Service Short Drive 
+00000275C,275C,Penny's Noodle Shop,Chicago,Asian Carry in Wine and Beer Chinese Good Decor Excellent Food Fine for Dining Alone No Reservations below $15 Good Service Short Drive Thai Weekend Brunch 
+00000276C,276C,Lanna Thai,Chicago,Carry in Wine and Beer Good Decor Excellent Food below $15 Relaxed Senior Scene Excellent Service Short Drive Traditional Thai 
+00000277C,277C,Cielo,Chicago,American (Traditional) Business Scene Cab Classic Hotel Dining Extraordinary Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service 
+00000278C,278C,Charlie's Ale House,Chicago,American (Traditional) Cab Excellent Decor Dining Outdoors Good Food $15-$30 Place for Singles Pub Feel Good Service See the Game Singles Scene Weekend Brunch 
+00000279C,279C,Barney's Market Club and Steak,Chicago,Business Scene Good Decor Good Food Good Out of Town Business $15-$30 Parking/Valet Good Service Steakhouses 
+00000280C,280C,Dao,Chicago,Cab Fair Decor Excellent Food below $15 Good Service Thai 
+00000281C,281C,Barn of Barrington,Chicago,American (Traditional) Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000282C,282C,KIKI'S BISTRO,Chicago,Business Scene Cab Extraordinary Decor Extraordinary Food French Bistro Hip Place To Be $30-$50 Parking/Valet Power Brokers Romantic Extraordinary Service Very Busy - Reservations a Must 
+00000283C,283C,La Boheme,Chicago,An Out Of The Way Find Extraordinary Decor Dining Outdoors Extraordinary Food French Long Drive Need To Dress $30-$50 Prix Fixe Menus Quiet for Conversation Romantic Extraordinary Service Very Busy - Reservations a Must Walk 
+00000284C,284C,R.J. Grunts,Chicago,American (Traditional) Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids No Reservations $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000285C,285C,Mrs. Park's Tavern,Chicago,After Hours Dining American (New) Business Scene Cab Classic Hotel Dining Good Decor Good Food Late Night Menu $15-$30 Parking/Valet Relaxed Senior Scene Good Service Weekend Brunch 
+00000286C,286C,Lucky Platter,Chicago,American (New) Creative Good Decor Excellent Food Long Drive No Reservations below $15 Excellent Service Weekend Brunch Wheelchair Access 
+00000287C,287C,Sai Cafe,Chicago,Good Decor Extraordinary Food Japanese $15-$30 Excellent Service Short Drive 
+00000288C,288C,Blind Faith Cafe,Chicago,Catering for Special Events Good Decor Delivery Available Excellent Food Health Conscious Menus Health Food Long Drive No Reservations No Smoking Allowed Open for Breakfast below $15 Excellent Service Takeout Available Vegetarian Weekend Brunch Wheelchair Access 
+00000289C,289C,Vivo,Chicago,Cab Extraordinary Decor Excellent Food Great for People Watching Hip Place To Be Italian $15-$30 Parking/Valet Place for Singles Romantic Excellent Service Weekend Brunch 
+00000290C,290C,New Japan,Chicago,An Out Of The Way Find Excellent Decor Extraordinary Food Japanese Long Drive $15-$30 Extraordinary Service 
+00000291C,291C,La Canasta,Chicago,After Hours Dining Good Decor Good Food For the Young and Young at Heart Good for Younger Kids Late Night Menu $15-$30 Parking/Valet Good Service Short Drive Traditional Tex-Mex Weekend Brunch 
+00000292C,292C,Thai Little Home Cafe,Chicago,Fair Decor Extraordinary Food below $15 Relaxed Senior Scene Excellent Service Short Drive Thai 
+00000293C,293C,Lutz Continental Cafe & Pastry,Chicago,Bakeries Continental Excellent Decor Dining Outdoors Excellent Food Focus on Dessert Fountain and Ice Cream No Reservations below $15 Parking/Valet Relaxed Senior Scene Excellent Service Wheelchair Access 
+00000294C,294C,La Sorella di Francesca,Chicago,An Out Of The Way Find Excellent Decor Dining Outdoors Extraordinary Food Italian Little Known But Well Liked Long Drive No Reservations $15-$30 Private Parties Private Rooms Available Romantic Extraordinary Service Up and Coming Weekend Brunch 
+00000295C,295C,Club Lago,Chicago,Cab Good Decor Good Food Italian No Reservations $15-$30 Relaxed Senior Scene Good Service 
+00000296C,296C,Red Tomato,Chicago,Creative Excellent Decor Excellent Food Italian No Reservations $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000297C,297C,Eddie's Collage,Chicago,American (Traditional) Good Decor Good Food $15-$30 Good Service Short Drive 
+00000298C,298C,Oak Terrace,Chicago,American (Traditional) Buffet Dining Business Scene Cab Classic Hotel Dining Excellent Decor Excellent Food $15-$30 Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000299C,299C,CAFE BA-BA-REEBA!,Chicago,Extraordinary Decor Dining Outdoors Extraordinary Food Hip Place To Be $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Short Drive Spanish Tapas Weekend Brunch 
+00000300C,300C,Matsuya,Chicago,Good Decor Extraordinary Food Japanese $15-$30 Excellent Service Short Drive 
+00000301C,301C,La Margarita,Chicago,Cab Excellent Decor Excellent Food Mexican $15-$30 Excellent Service Weekend Brunch 
+00000302C,302C,Salvatore's,Chicago,Cab Excellent Decor Dining Outdoors Excellent Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Excellent Service Weekend Brunch 
+00000303C,303C,Kerouac Jack's,Chicago,Good Decor Eclectic Good Food $15-$30 Pub Feel Quirky Good Service See the Game Short Drive Singles Scene 
+00000304C,304C,Belden Deli,Chicago,After Hours Dining Catering for Special Events Fair Decor Deli Good Food Jewish Late Night Menu Open for Breakfast below $15 Parking/Valet Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000305C,305C,Galans,Chicago,Excellent Decor Excellent Food $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Short Drive Ukranian Weekend Brunch 
+00000306C,306C,Del Rio,Chicago,Good Decor Excellent Food Fabulous Wine Lists Italian Long Drive $15-$30 Excellent Service Weekend Brunch 
+00000307C,307C,CARLOS',Chicago,An Out Of The Way Find Extraordinary Decor Near-perfect Food Fabulous Wine Lists French (New) Game Health Conscious Menus Hip Place To Be Long Drive Need To Dress over $50 Parking/Valet Pre-theater Dining Private Parties Private Rooms Available Prix Fixe Menus Quiet for Conversation Romantic Near-perfect Service Very Busy - Reservations a Must Weekend Brunch 
+00000308C,308C,Berghoff,Chicago,An Historic Spot Cab Excellent Decor Excellent Food German $15-$30 Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Traditional Tourist Appeal Weekend Brunch 
+00000309C,309C,Giannotti Steak House,Chicago,Excellent Decor Extraordinary Food Italian Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Excellent Service Steakhouses Weekend Brunch 
+00000310C,310C,El Tinajon,Chicago,Good Decor Delivery Available Excellent Food Guatemalan Long Drive below $15 Excellent Service Takeout Available Weekend Brunch 
+00000311C,311C,Emperor's Choice,Chicago,After Hours Dining Chinese Good Decor Extraordinary Food Late Night Menu $15-$30 Excellent Service Short Drive 
+00000312C,312C,Daruma,Chicago,After Hours Dining Excellent Decor Extraordinary Food Japanese Late Night Menu Long Drive $15-$30 Parking/Valet Excellent Service 
+00000313C,313C,Buffalo Ranch,Chicago,Excellent Decor Good Food Good for Younger Kids Long Drive $15-$30 Parking/Valet Excellent Service Steakhouses 
+00000314C,314C,Topo Gigio,Chicago,Cab Good Decor Dining Outdoors Excellent Food Italian $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000315C,315C,Bohemian Crystal,Chicago,Czech Good Decor Excellent Food Game Long Drive below $15 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000316C,316C,Zasu,Chicago,Good Decor Eclectic Good Food $15-$30 Excellent Service Short Drive Wheelchair Access 
+00000317C,317C,TOPOLOBAMPO,Chicago,Cab Extraordinary Decor Near-perfect Food Mexican $30-$50 Private Parties Private Rooms Available Extraordinary Service Very Busy - Reservations a Must 
+00000318C,318C,Nookies,Chicago,American (Traditional) Coffee Shops Fair Decor Diners Good Food For the Young and Young at Heart Good for Younger Kids No Reservations Open for Breakfast below $15 Good Service Short Drive Weekend Brunch 
+00000319C,319C,Winklestein's,Chicago,Cab Catering for Special Events Fair Decor Deli Excellent Food Jewish Open for Breakfast below $15 Good Service Weekend Brunch 
+00000320C,320C,Rose Angelis,Chicago,Excellent Decor Excellent Food Italian No Reservations $15-$30 Romantic Excellent Service Short Drive Weekend Brunch 
+00000321C,321C,Bridges,Chicago,Cab Good Decor Good Food $15-$30 Good Service Seafood 
+00000322C,322C,Momotaro,Chicago,Excellent Decor Excellent Food Japanese Long Drive $15-$30 Excellent Service 
+00000323C,323C,That Steak Joynt,Chicago,Cab Good Decor Dancing Entertainment Good Food $15-$30 Parking/Valet People Keep Coming Back Private Parties Private Rooms Available Good Service Steakhouses Very Busy - Reservations a Must Weekend Brunch 
+00000324C,324C,Su Casa,Chicago,Business Scene Cab Good Decor Dancing Entertainment Good Food Margaritas Mexican $15-$30 Parking/Valet Good Service 
+00000325C,325C,Cafe Maxx,Chicago,American (New) Excellent Decor Excellent Food Long Drive $15-$30 Good Service 
+00000326C,326C,My Place For ?,Chicago,Good Decor Excellent Food Greek $15-$30 Excellent Service Seafood Short Drive Weekend Brunch 
+00000327C,327C,Ristorante Chianti,Chicago,Excellent Decor Excellent Food Italian Long Drive $15-$30 Excellent Service Weekend Brunch 
+00000328C,328C,Beirut,Chicago,Good Decor Dancing Entertainment Good Food Lebanese $15-$30 Relaxed Senior Scene Good Service Short Drive 
+00000329C,329C,Trattoria Gianni,Chicago,Cab Good Decor Dining Outdoors Excellent Food Italian $15-$30 Parking/Valet Excellent Service Very Busy - Reservations a Must Weekend Brunch 
+00000330C,330C,Julio's Latin Cafe,Chicago,Excellent Decor Extraordinary Food Little Known But Well Liked Long Drive $15-$30 Parking/Valet Excellent Service South American 
+00000331C,331C,Colorado Steakhouse,Chicago,Good Decor Good Food Good for Younger Kids Long Drive $15-$30 Parking/Valet Good Service Steakhouses Weekend Brunch 
+00000332C,332C,Harry Caray's,Chicago,American (Traditional) Business Scene Cab Excellent Decor Excellent Food Hip Place To Be Italian $15-$30 Parking/Valet Power Brokers Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000333C,333C,Athenian Room,Chicago,Cab Fair Decor Delivery Available Excellent Food Fine for Dining Alone Good for Younger Kids Greek No Reservations below $15 Excellent Service Takeout Available Weekend Brunch 
+00000334C,334C,Leona's Original Pizza,Chicago,After Hours Dining Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Italian Late Night Menu below $15 Parking/Valet Pizza Private Parties Private Rooms Available Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000335C,335C,Don's Fishmarket & Tavern,Chicago,Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Excellent Service Seafood Weekend Brunch 
+00000336C,336C,Big Bowl Cafe,Chicago,Cab Good Decor Delivery Available Eclectic Excellent Food No Reservations below $15 Parking/Valet Excellent Service Takeout Available Weekend Brunch 
+00000337C,337C,Da Luigino,Chicago,Excellent Decor Extraordinary Food Italian Little Known But Well Liked Long Drive $15-$30 Quiet for Conversation Relaxed Senior Scene Romantic Excellent Service Weekend Brunch 
+00000338C,338C,Viceroy of India,Chicago,Good Decor Excellent Food Indian $15-$30 Parking/Valet Excellent Service Short Drive Weekend Brunch 
+00000339C,339C,Brett's,Chicago,American (New) Creative Good Decor Excellent Food $15-$30 Prix Fixe Menus Excellent Service Short Drive Weekend Brunch 
+00000340C,340C,Bacchus Nibbles,Chicago,After Hours Dining Continental Good Decor Good Food French Bistro Late Night Menu Long Drive No Reservations $15-$30 Parking/Valet Relaxed Senior Scene Good Service Weekend Brunch 
+00000341C,341C,Las Palmas,Chicago,Good Decor Good Food For the Young and Young at Heart Good for Younger Kids Mexican below $15 Excellent Service Short Drive 
+00000342C,342C,Basta Pasta,Chicago,Creative Excellent Decor Excellent Food Italian No Reservations $15-$30 Parking/Valet Excellent Service Short Drive Weekend Brunch 
+00000343C,343C,Ina's Kitchen,Chicago,American (New) Excellent Decor Dining Outdoors Excellent Food Focus on Dessert Fountain and Ice Cream Hip Place To Be No Reservations Open for Breakfast below $15 Private Parties Private Rooms Available Excellent Service Short Drive 
+00000344C,344C,Butcher Shop Steakhouse,Chicago,Business Scene Cab Good Decor Excellent Food Good Out of Town Business $15-$30 Parking/Valet Excellent Service Steakhouses Weekend Brunch 
+00000345C,345C,Genesee Depot,Chicago,American (Traditional) Carry in Wine and Beer Excellent Decor Extraordinary Food Long Drive $15-$30 Quiet for Conversation Excellent Service Weekend Brunch 
+00000346C,346C,Ron of Japan,Chicago,Cab Excellent Decor Excellent Food Japanese $15-$30 Parking/Valet Excellent Service 
+00000347C,347C,Park Avenue Cafe,Chicago,American (New) Business Scene Cab Classic Hotel Dining Good Decor Good Food Good Out of Town Business $15-$30 Parking/Valet Good Service 
+00000348C,348C,Zealous,Chicago,American (New) An Out Of The Way Find Excellent Decor Extraordinary Food Long Drive $30-$50 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service Up and Coming 
+00000349C,349C,Carmine's Clamhouse,Chicago,Business Scene Cab Excellent Decor Excellent Food Good Out of Town Business Italian $30-$50 Parking/Valet Private Parties Private Rooms Available Excellent Service Seafood Up and Coming Very Busy - Reservations a Must Weekend Brunch 
+00000350C,350C,Chano Chano,Chicago,Authentic Good Decor Excellent Food Long Drive Mexican below $15 Excellent Service Weekend Brunch 
+00000351C,351C,Bagel,Chicago,Catering for Special Events Good Decor Deli Excellent Food Jewish Open for Breakfast below $15 Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000352C,352C,Szechwan North,Chicago,Buffet Dining Chinese Good Decor Good Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service 
+00000353C,353C,EMILIO'S TAPAS BAR & RESTAURANT,Chicago,An Out Of The Way Find Extraordinary Decor Extraordinary Food Hip Place To Be $15-$30 Parking/Valet Extraordinary Service Spanish Tapas Up and Coming Very Busy - Reservations a Must Weekend Brunch 
+00000354C,354C,California Pizza Kitchen,Chicago,Cab Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids below $15 Parking/Valet Pizza Excellent Service Weekend Brunch 
+00000355C,355C,Jim & Johnny's,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000356C,356C,Cafe Pyrenees,Chicago,An Out Of The Way Find Creative Excellent Decor Extraordinary Food French Long Drive Need To Dress $15-$30 Parking/Valet Prix Fixe Menus Quiet for Conversation Extraordinary Service 
+00000357C,357C,Fond de la Tour,Chicago,An Out Of The Way Find Continental Extraordinary Decor Extraordinary Food French Good Out of Town Business Long Drive Need To Dress $30-$50 Quiet for Conversation Romantic Extraordinary Service 
+00000358C,358C,Furama,Chicago,Chinese Fair Decor Good Food below $15 Good Service Short Drive Traditional 
+00000359C,359C,Dave's Italian Kitchen,Chicago,Carry in Wine and Beer Fair Decor Excellent Food Italian Long Drive No Reservations below $15 Excellent Service Weekend Brunch Wheelchair Access 
+00000360C,360C,Cafe Gordon,Chicago,American (New) Business Scene Cab Classic Hotel Dining Good Decor Good Food Good Out of Town Business No Reservations $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service Up and Coming Weekend Brunch 
+00000361C,361C,94th Aero Squadron,Chicago,American (Traditional) Buffet Dining Extraordinary Decor Good Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Prix Fixe Menus Relaxed Senior Scene Romantic Excellent Service Weekend Brunch 
+00000362C,362C,Cucina Bella,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000363C,363C,Aegean Isles,Chicago,Good Decor Good Food Greek Long Drive $15-$30 Good Service Traditional Weekend Brunch 
+00000364C,364C,Sole Mio,Chicago,Excellent Decor Extraordinary Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Short Drive Very Busy - Reservations a Must Weekend Brunch 
+00000365C,365C,Healthy Food,Chicago,Carry in Wine and Beer Fair Decor Delivery Available Good Food Lithuanian below $15 Relaxed Senior Scene Good Service Short Drive Takeout Available Weekend Brunch 
+00000366C,366C,Bite,Chicago,Good Decor Eclectic Good Food $15-$30 Good Service Short Drive Up and Coming 
+00000367C,367C,Brasserie T,Chicago,Good Decor Eclectic Good Food Long Drive $15-$30 Good Service Up and Coming 
+00000368C,368C,Emilio's Granada,Chicago,An Out Of The Way Find Extraordinary Decor Extraordinary Food Long Drive $15-$30 Private Parties Private Rooms Available Extraordinary Service Spanish Tapas Up and Coming Weekend Brunch 
+00000369C,369C,foodlife,Chicago,Cab Excellent Decor Delivery Available Eclectic Excellent Food For the Young and Young at Heart Good for Younger Kids Hip Place To Be No Reservations below $15 Relaxed Senior Scene Good Service Takeout Available Weekend Brunch Wheelchair Access 
+00000370C,370C,CHARLIE TROTTER'S,Chicago,American (New) Creative Extraordinary Decor Near-perfect Food Fabulous Wine Lists Game Good Out of Town Business Health Conscious Menus Hip Place To Be Need To Dress No Smoking Allowed over $50 Parking/Valet Private Parties Private Rooms Available Prix Fixe Menus Romantic Near-perfect Service Short Drive Very Busy - Reservations a Must 
+00000371C,371C,Bossa Nova,Chicago,After Hours Dining Extraordinary Decor Dancing Entertainment Excellent Food Great for People Watching Hip Place To Be Late Night Menu $15-$30 Excellent Service Short Drive Tapas Weekend Brunch 
+00000372C,372C,Bistro in Highwood,Chicago,An Out Of The Way Find Good Decor Eclectic Good Food Long Drive $15-$30 Good Service Up and Coming 
+00000373C,373C,Nick & Tony's,Chicago,Business Scene Cab Good Decor Dining Outdoors Good Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service Up and Coming Weekend Brunch 
+00000374C,374C,Geppetto's,Chicago,Good Decor Good Food Italian Long Drive No Reservations $15-$30 Pizza Good Service Weekend Brunch Wheelchair Access 
+00000375C,375C,Erwin,Chicago,American (New) Excellent Decor Extraordinary Food $15-$30 Parking/Valet Prix Fixe Menus Excellent Service Short Drive Up and Coming Weekend Brunch 
+00000376C,376C,Mrs. Levy's Delicatessen,Chicago,American (Traditional) Cab Good Decor Deli Good Food Jewish Open for Breakfast below $15 Relaxed Senior Scene Good Service 
+00000377C,377C,Cottage,Chicago,American (New) An Out Of The Way Find Extraordinary Decor Extraordinary Food French (New) Game Long Drive Need To Dress $30-$50 Parking/Valet Extraordinary Service Walk Weekend Brunch 
+00000378C,378C,Stanley's Kitchen & Tap,Chicago,American (Traditional) Good Decor Good Food For the Young and Young at Heart Good for Younger Kids below $15 Parking/Valet Place for Singles Pub Feel Good Service See the Game Short Drive Singles Scene Traditional Weekend Brunch 
+00000379C,379C,Yvette,Chicago,Cab Excellent Decor Dancing Dining Outdoors Entertainment Excellent Food French Bistro Great Place to Meet for a Drink Great for People Watching $15-$30 Place for Singles Private Parties Private Rooms Available Romantic Excellent Service Weekend Brunch 
+00000380C,380C,Gino's East,Chicago,Cab Fair Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Italian No Reservations below $15 Parking/Valet Pizza Good Service Weekend Brunch Wheelchair Access 
+00000381C,381C,Gin Go Gae,Chicago,Fair Decor Excellent Food Korean below $15 Excellent Service Short Drive Weekend Brunch 
+00000382C,382C,Little Szechwan,Chicago,Chinese Good Decor Excellent Food Little Known But Well Liked Long Drive $15-$30 Excellent Service 
+00000383C,383C,VA PENSIERO,Chicago,An Out Of The Way Find Creative Extraordinary Decor Extraordinary Food Italian Long Drive $30-$50 Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service 
+00000384C,384C,Danilo's,Chicago,Cab Good Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service 
+00000385C,385C,Thai Town,Chicago,Fair Decor Excellent Food below $15 Excellent Service Short Drive Thai Wheelchair Access 
+00000386C,386C,Dragon Inn North,Chicago,Chinese Good Decor Excellent Food Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Excellent Service 
+00000387C,387C,Anna Maria Pasteria,Chicago,Carry in Wine and Beer Good Decor Excellent Food Italian below $15 Excellent Service Short Drive Weekend Brunch 
+00000388C,388C,Slice of Life,Chicago,After Hours Dining Good Decor Good Food Jewish Late Night Menu below $15 Relaxed Senior Scene Good Service Short Drive 
+00000389C,389C,Paladino's,Chicago,Cab Good Decor Good Food For the Young and Young at Heart Italian $15-$30 Parking/Valet Pizza Place for Singles Good Service Weekend Brunch 
+00000390C,390C,Santa Fe Tapas,Chicago,Creative Good Decor Excellent Food $15-$30 Good Service Short Drive Southwestern Tapas Weekend Brunch 
+00000391C,391C,Glass Dome Hickory Pit,Chicago,Bar-B-Q Good Decor Excellent Food $15-$30 Parking/Valet Relaxed Senior Scene Good Service Short Drive Traditional Weekend Brunch 
+00000392C,392C,Lucci's Pasta Facce Trattoria,Chicago,Business Scene Excellent Decor Excellent Food Italian Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000393C,393C,Santorini,Chicago,After Hours Dining Cab Excellent Decor Excellent Food Greek Late Night Menu $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000394C,394C,Retreat,Chicago,American (New) Extraordinary Decor Excellent Food French (New) Long Drive $15-$30 Private Parties Private Rooms Available Quiet for Conversation Romantic Excellent Service Weekend Brunch 
+00000395C,395C,Dish,Chicago,American (Regional) Good Decor Excellent Food $15-$30 Quirky Excellent Service Short Drive Up and Coming Weekend Brunch 
+00000396C,396C,Miller's Pub,Chicago,After Hours Dining American (Traditional) Cab Good Decor Good Food Late Night Menu Open for Breakfast $15-$30 People Keep Coming Back Good Service Weekend Brunch 
+00000397C,397C,Zofia's,Chicago,American (Traditional) Good Decor Excellent Food Long Drive below $15 Parking/Valet Polish Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000398C,398C,Nancy's Original Stuffed Pizza,Chicago,After Hours Dining Fair Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Late Night Menu No Reservations below $15 Pizza Good Service Weekend Brunch 
+00000399C,399C,Courtyards of Plaka,Chicago,Authentic Cab Excellent Decor Excellent Food Greek $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000400C,400C,FRONTERA GRILL,Chicago,Authentic Cab Extraordinary Decor Dining Outdoors Near-perfect Food Hip Place To Be Mexican No Reservations $15-$30 Private Parties Private Rooms Available Extraordinary Service Weekend Brunch 
+00000401C,401C,Thai Borrahn,Chicago,Buffet Dining Cab Excellent Decor Excellent Food $15-$30 Excellent Service Thai 
+00000402C,402C,Centro,Chicago,Cab Excellent Decor Excellent Food Great for People Watching Hip Place To Be Italian $15-$30 Parking/Valet Power Brokers Excellent Service 
+00000403C,403C,Next Door,Chicago,Good Decor Extraordinary Food Italian Long Drive $15-$30 Excellent Service 
+00000404C,404C,Hau Giang,Chicago,Authentic Carry in Wine and Beer Poor Decor Excellent Food below $15 Good Service Short Drive Vietnamese 
+00000405C,405C,Printer's Row,Chicago,American (New) Business Scene Cab Extraordinary Decor Extraordinary Food Fabulous Wine Lists Good Out of Town Business $30-$50 Private Parties Private Rooms Available Quiet for Conversation Extraordinary Service Very Busy - Reservations a Must 
+00000406C,406C,Parrinello,Chicago,Cab Excellent Decor Extraordinary Food Italian $15-$30 Parking/Valet Quiet for Conversation Romantic Excellent Service Very Busy - Reservations a Must 
+00000407C,407C,Wishbone,Chicago,Cajun Carry in Wine and Beer Creole Good Decor Extraordinary Food For the Young and Young at Heart Good for Younger Kids Hip Place To Be Open for Breakfast below $15 Parking/Valet Excellent Service Short Drive Soulfood Southern Traditional Weekend Brunch 
+00000408C,408C,Zum Deutschen Eck,Chicago,Excellent Decor Dancing Entertainment Excellent Food German $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Short Drive Traditional Weekend Brunch 
+00000409C,409C,Vinyl,Chicago,After Hours Dining American (New) Cab Good Decor Dancing Entertainment Good Food Hip Place To Be Late Night Menu $15-$30 Parking/Valet Place for Singles Private Parties Private Rooms Available Good Service Up and Coming Weekend Brunch 
+00000410C,410C,King Crab Tavern & Seafood,Chicago,Cab Good Decor Dining Outdoors Excellent Food $15-$30 Parking/Valet Excellent Service Seafood Weekend Brunch 
+00000411C,411C,La Majada,Chicago,Authentic Excellent Decor Dancing Entertainment Good Food Long Drive Mexican $15-$30 Excellent Service Weekend Brunch 
+00000412C,412C,Betise,Chicago,An Out Of The Way Find Extraordinary Decor Excellent Food French (New) Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Walk Weekend Brunch 
+00000413C,413C,Outback Steakhouse,Chicago,Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Steakhouses Weekend Brunch 
+00000414C,414C,Wild Onion,Chicago,American (New) Creative Good Decor Excellent Food $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000415C,415C,Club Creole,Chicago,Cab Cajun Creole Good Decor Good Food $15-$30 Good Service 
+00000416C,416C,Capriccio's,Chicago,Excellent Decor Excellent Food Italian Long Drive $15-$30 Excellent Service Weekend Brunch 
+00000417C,417C,Charlie Chiang,Chicago,Chinese Good Decor Excellent Food Long Drive $15-$30 Parking/Valet Excellent Service 
+00000418C,418C,PUMP ROOM,Chicago,American (New) Business Scene Cab Classic Hotel Dining Near-perfect Decor Dancing Entertainment Extraordinary Food Good Out of Town Business Need To Dress $30-$50 Parking/Valet Private Parties Private Rooms Available Prix Fixe Menus Quiet for Conversation Romantic Extraordinary Service Traditional Very Busy - Reservations a Must 
+00000419C,419C,Pazzo's Pizza & Pasta Kitchen,Chicago,Business Scene Cab Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000420C,420C,LaLO,Chicago,Good Decor Extraordinary Food For the Young and Young at Heart Little Known But Well Liked Mexican No Reservations $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000421C,421C,Brother Jimmy's BBQ,Chicago,Bar-B-Q Good Decor Good Food $15-$30 Parking/Valet Place for Singles Private Parties Private Rooms Available Pub Feel Good Service See the Game Short Drive Singles Scene Weekend Brunch 
+00000422C,422C,Brasserie Bellevue,Chicago,Cab Classic Hotel Dining Excellent Decor Dining Outdoors Excellent Food French Bistro $15-$30 Parking/Valet Prix Fixe Menus Excellent Service Weekend Brunch 
+00000423C,423C,Boston Blackie's,Chicago,Good Decor Excellent Food Hamburgers below $15 Parking/Valet Pub Feel Excellent Service See the Game Short Drive Singles Scene Traditional Weekend Brunch 
+00000424C,424C,Del Debbio's,Chicago,Fair Decor Excellent Food Italian Long Drive $15-$30 Excellent Service 
+00000425C,425C,Austin Koo's Mandarin,Chicago,Cab Chinese Good Decor Good Food $15-$30 Good Service 
+00000426C,426C,LE FRANCAIS,Chicago,An Out Of The Way Find Business Scene Near-perfect Decor Near-perfect Food Fabulous Wine Lists French Game Hip Place To Be Long Drive Need To Dress over $50 Parking/Valet Power Brokers Pre-theater Dining Prix Fixe Menus Quiet for Conversation Romantic Near-perfect Service Very Busy - Reservations a Must 
+00000427C,427C,Sixty-Five,Chicago,Chinese Fair Decor Delivery Available Excellent Food $15-$30 Parking/Valet Relaxed Senior Scene Good Service Short Drive Traditional Takeout Available Weekend Brunch Wheelchair Access 
+00000428C,428C,Jackie's,Chicago,Asian Creative Excellent Decor Extraordinary Food French (New) Game Good Out of Town Business Need To Dress $30-$50 Pre-theater Dining Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service Short Drive Very Busy - Reservations a Must 
+00000429C,429C,Greenery,Chicago,American (Regional) Creative Extraordinary Decor Extraordinary Food Game Little Known But Well Liked Long Drive $30-$50 Extraordinary Service 
+00000430C,430C,Dellwood Pickle,Chicago,American (Traditional) Carry in Wine and Beer Fair Decor Delivery Available Eclectic Good Food Open for Breakfast below $15 Good Service Short Drive Takeout Available Weekend Brunch 
+00000431C,431C,Merlot Joe's,Chicago,Good Decor Dining Outdoors Excellent Food French Bistro $15-$30 Parking/Valet Romantic Excellent Service Short Drive Weekend Brunch 
+00000432C,432C,Roditys,Chicago,Authentic Cab Good Decor Excellent Food Greek $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000433C,433C,Stella d'Italia,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Quiet for Conversation Excellent Service Up and Coming Weekend Brunch 
+00000434C,434C,Tuttaposto,Chicago,Creative Cab Excellent Decor Extraordinary Food Great Place to Meet for a Drink Mediterranean $15-$30 Parking/Valet Quiet for Conversation Excellent Service Weekend Brunch 
+00000435C,435C,Hi Howe,Chicago,Chinese Fair Decor Excellent Food No Reservations below $15 Relaxed Senior Scene Good Service Short Drive 
+00000436C,436C,La Fontanella,Chicago,Good Decor Excellent Food Italian $15-$30 Excellent Service Short Drive Traditional Weekend Brunch 
+00000437C,437C,Retro Bistro,Chicago,Creative Excellent Decor Extraordinary Food French Bistro Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Prix Fixe Menus Quiet for Conversation Romantic Extraordinary Service 
+00000438C,438C,Heartland Cafe,Chicago,Catering for Special Events Good Decor Dancing Delivery Available Dining Outdoors Entertainment Good Food Fine for Dining Alone Health Conscious Menus Health Food Open for Breakfast below $15 Good Service Short Drive Takeout Available Vegetarian Weekend Brunch 
+00000439C,439C,Tony Spavone's,Chicago,Good Decor Dancing Entertainment Excellent Food Italian Long Drive $15-$30 Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000440C,440C,Basilico,Chicago,Good Decor Excellent Food Italian Long Drive $15-$30 Parking/Valet Quiet for Conversation Excellent Service 
+00000441C,441C,Tania's,Chicago,After Hours Dining Cuban Excellent Decor Dancing Entertainment Excellent Food Late Night Menu $15-$30 Parking/Valet Excellent Service Short Drive Weekend Brunch 
+00000442C,442C,Mekong,Chicago,Good Decor Excellent Food below $15 Good Service Short Drive Vietnamese 
+00000443C,443C,Best Hunan,Chicago,Chinese Excellent Decor Extraordinary Food Little Known But Well Liked Long Drive $15-$30 Parking/Valet Excellent Service 
+00000444C,444C,Myron & Phil's,Chicago,Good Decor Extraordinary Food Jewish Long Drive No Reservations $15-$30 Excellent Service Seafood Steakhouses Traditional Weekend Brunch 
+00000445C,445C,Campeche,Chicago,After Hours Dining Fair Decor Good Food Late Night Menu Mexican below $15 Good Service Short Drive Weekend Brunch 
+00000446C,446C,Boulevard,Chicago,Business Scene Cab Classic Hotel Dining Continental Extraordinary Decor Excellent Food Good Out of Town Business Need To Dress $30-$50 Parking/Valet Romantic Extraordinary Service 
+00000447C,447C,SEASONS,Chicago,American (New) Business Scene Creative Cab Classic Hotel Dining Near-perfect Decor Near-perfect Food Fabulous Wine Lists Game Good Out of Town Business Need To Dress $30-$50 Parking/Valet Prix Fixe Menus Near-perfect Service Very Busy - Reservations a Must 
+00000448C,448C,Czech Plaza,Chicago,Czech Good Decor Excellent Food Long Drive No Reservations below $15 Excellent Service Weekend Brunch 
+00000449C,449C,Twisted Lizard,Chicago,Good Decor Good Food For the Young and Young at Heart $15-$30 Good Service Short Drive Tex-Mex Weekend Brunch 
+00000450C,450C,Bravissimo,Chicago,Business Scene Cab Excellent Decor Dining Outdoors Excellent Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000451C,451C,Angelina Ristorante,Chicago,Excellent Decor Excellent Food Italian No Reservations $15-$30 Parking/Valet Excellent Service Short Drive Weekend Brunch 
+00000452C,452C,Dancing Noodles Cafe,Chicago,Buffet Dining Good Decor Delivery Available Good Food Good for Younger Kids Italian Long Drive below $15 Parking/Valet People Keep Coming Back Good Service Takeout Available Weekend Brunch 
+00000453C,453C,Club Lucky,Chicago,Excellent Decor Excellent Food Hip Place To Be Italian No Reservations $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Short Drive Weekend Brunch 
+00000454C,454C,Tapas Barcelona,Chicago,Cab Good Decor Good Food $15-$30 Parking/Valet Place for Singles Private Parties Private Rooms Available Good Service Spanish Tapas Up and Coming Very Busy - Reservations a Must Weekend Brunch 
+00000455C,455C,Poolgogi House,Chicago,Carry in Wine and Beer Good Decor Good Food Korean $15-$30 Relaxed Senior Scene Good Service Short Drive 
+00000456C,456C,Cafe Phoenicia,Chicago,Good Decor Excellent Food Middle Eastern $15-$30 Relaxed Senior Scene Excellent Service Short Drive 
+00000457C,457C,Stefani's,Chicago,Excellent Decor Dining Outdoors Excellent Food Italian $15-$30 Parking/Valet Pizza Private Parties Private Rooms Available Excellent Service Short Drive Weekend Brunch 
+00000458C,458C,Erie Cafe,Chicago,Business Scene Cab Excellent Decor Excellent Food Good Out of Town Business $30-$50 Parking/Valet Private Parties Private Rooms Available Excellent Service Steakhouses Up and Coming Weekend Brunch 
+00000459C,459C,Little Europe,Chicago,Buffet Dining Excellent Decor Extraordinary Food Little Known But Well Liked below $15 Polish Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000460C,460C,Papagus Greek Taverna,Chicago,Business Scene Cab Classic Hotel Dining Extraordinary Decor Dining Outdoors Excellent Food Greek $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Very Busy - Reservations a Must Weekend Brunch 
+00000461C,461C,Stetson's Chop House,Chicago,Business Scene Cab Classic Hotel Dining Excellent Decor Excellent Food Good Out of Town Business $30-$50 Parking/Valet Excellent Service Steakhouses 
+00000462C,462C,Korean Restaurant,Chicago,After Hours Dining Buffet Dining Fair Decor Good Food Korean Late Night Menu below $15 Good Service Short Drive 
+00000463C,463C,VINCI,Chicago,Extraordinary Decor Extraordinary Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Extraordinary Service Short Drive Weekend Brunch 
+00000464C,464C,Giordano's,Chicago,Good Decor Excellent Food Good for Younger Kids below $15 Pizza Good Service Short Drive 
+00000465C,465C,Celebrity Cafe,Chicago,Business Scene Cab Classic Hotel Dining Excellent Decor Eclectic Extraordinary Food $30-$50 Parking/Valet Excellent Service 
+00000466C,466C,Carlucci,Chicago,Extraordinary Decor Dining Outdoors Extraordinary Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Extraordinary Service Short Drive Walk Weekend Brunch 
+00000467C,467C,Don Juan's,Chicago,Good Decor Extraordinary Food Long Drive Mexican $15-$30 Excellent Service Weekend Brunch 
+00000468C,468C,August Moon,Chicago,Carry in Wine and Beer Good Decor Excellent Food Indonesian below $15 Good Service Short Drive 
+00000469C,469C,Ruth's Chris Steak House,Chicago,Business Scene Cab Excellent Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink $30-$50 Parking/Valet Extraordinary Service Steakhouses Very Busy - Reservations a Must 
+00000470C,470C,Clara's Pasta di Casa,Chicago,Good Decor Good Food Italian Long Drive No Reservations $15-$30 Parking/Valet Relaxed Senior Scene Good Service 
+00000471C,471C,Tokyo Marina,Chicago,Good Decor Excellent Food Japanese $15-$30 Parking/Valet Excellent Service Short Drive 
+00000472C,472C,La Gondola,Chicago,Good Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service Short Drive Weekend Brunch 
+00000473C,473C,Singha,Chicago,Business Scene Cab Good Decor Excellent Food below $15 Good Service Thai 
+00000474C,474C,La Creperie,Chicago,Carry in Wine and Beer Good Decor Dining Outdoors Excellent Food French $15-$30 Romantic Excellent Service Short Drive Weekend Brunch 
+00000475C,475C,Bukhara,Chicago,Authentic Buffet Dining Cab Excellent Decor Excellent Food Indian $15-$30 Parking/Valet Good Service 
+00000476C,476C,Soul Kitchen,Chicago,American (New) American (Regional) Creative Caribbean Carry in Wine and Beer Excellent Decor Extraordinary Food No Reservations $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000477C,477C,Emilio's Meson Sabika,Chicago,An Out Of The Way Find Good Decor Dancing Entertainment Good Food Long Drive $15-$30 Parking/Valet Good Service Spanish Tapas 
+00000478C,478C,Hackney's,Chicago,Good Decor Dining Outdoors Excellent Food For the Young and Young at Heart Good for Younger Kids Hamburgers Long Drive below $15 Parking/Valet Excellent Service Weekend Brunch 
+00000479C,479C,Gennaro's,Chicago,Good Decor Excellent Food Italian $15-$30 Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000480C,480C,Home Bakery,Chicago,Catering for Special Events Fair Decor Delivery Available Excellent Food below $15 Polish Relaxed Senior Scene Excellent Service Short Drive Takeout Available Weekend Brunch 
+00000481C,481C,Bando,Chicago,Good Decor Excellent Food Korean $15-$30 Parking/Valet Good Service Short Drive 
+00000482C,482C,Aurelio's,Chicago,Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Long Drive No Reservations below $15 Pizza Excellent Service 
+00000483C,483C,Robinson's No. 1 Ribs,Chicago,Bar-B-Q Fair Decor Dining Outdoors Excellent Food For the Young and Young at Heart Good for Younger Kids $15-$30 Good Service Short Drive Weekend Brunch 
+00000484C,484C,Trattoria Roma Terza,Chicago,Cab Excellent Decor Extraordinary Food Italian $15-$30 Excellent Service Weekend Brunch 
+00000485C,485C,ENTRE NOUS,Chicago,American (New) Cab Classic Hotel Dining Extraordinary Decor Extraordinary Food French (New) Need To Dress $30-$50 Parking/Valet Prix Fixe Menus Extraordinary Service 
+00000486C,486C,Hat Dance,Chicago,Cab Extraordinary Decor Dining Outdoors Excellent Food Great Place to Meet for a Drink $15-$30 Parking/Valet Place for Singles Excellent Service Southwestern Weekend Brunch 
+00000487C,487C,Cannella's,Chicago,Cab Good Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service Traditional Weekend Brunch 
+00000488C,488C,Pegasus,Chicago,Cab Excellent Decor Excellent Food Greek $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000489C,489C,Nookies Too,Chicago,American (Traditional) Good Decor Good Food For the Young and Young at Heart Good for Younger Kids No Reservations Open for Breakfast below $15 Good Service Short Drive Weekend Brunch 
+00000490C,490C,El Nandu,Chicago,Argentinean Good Decor Delivery Available Good Food $15-$30 Good Service Short Drive Takeout Available 
+00000491C,491C,Noodle Noodle,Chicago,Asian Good Decor Excellent Food Fine for Dining Alone No Reservations No Smoking Allowed below $15 Excellent Service Short Drive Wheelchair Access 
+00000492C,492C,Pomodori,Chicago,Good Decor Good Food Italian $15-$30 Parking/Valet Quiet for Conversation Good Service Short Drive Up and Coming Weekend Brunch 
+00000493C,493C,My pi Pizzeria,Chicago,After Hours Dining Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Late Night Menu No Reservations below $15 Pizza Good Service Short Drive Weekend Brunch 
+00000494C,494C,Lupita's,Chicago,Excellent Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Long Drive Mexican $15-$30 Excellent Service 
+00000495C,495C,Benkay,Chicago,Business Scene Cab Classic Hotel Dining Extraordinary Decor Extraordinary Food Good Out of Town Business Japanese $30-$50 Parking/Valet Private Parties Private Rooms Available Extraordinary Service 
+00000496C,496C,Heaven On Seven,Chicago,American (Traditional) Cab Cajun Coffee Shops Creole Good Decor Delivery Available Diners Extraordinary Food Fine for Dining Alone No Reservations Open for Breakfast below $15 Excellent Service Takeout Available 
+00000497C,497C,Medici,Chicago,After Hours Dining American (Traditional) Good Decor Good Food Fine for Dining Alone For the Young and Young at Heart Hamburgers Late Night Menu Long Drive Open for Breakfast below $15 Good Service Weekend Brunch 
+00000498C,498C,O Fame,Chicago,Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Italian No Reservations $15-$30 Pizza Good Service Short Drive Weekend Brunch 
+00000499C,499C,Piatti Verde,Chicago,Cab Good Decor Good Food Italian $15-$30 Good Service Vegetarian 
+00000500C,500C,Gypsy's Cove,Chicago,Good Decor Excellent Food $15-$30 Parking/Valet Peruvian Excellent Service Short Drive Tapas Up and Coming Weekend Brunch 
+00000501C,501C,Chez Paul,Chicago,An Historic Spot Cab Continental Extraordinary Decor Dancing Entertainment Excellent Food French Need To Dress $30-$50 Parking/Valet Private Parties Private Rooms Available Romantic Excellent Service Walk Weekend Brunch 
+00000502C,502C,Kampai,Chicago,Excellent Decor Extraordinary Food Japanese Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service 
+00000503C,503C,UN GRAND CAFE,Chicago,Extraordinary Decor Dining Outdoors Extraordinary Food French Bistro Game $30-$50 Parking/Valet Quiet for Conversation Romantic Extraordinary Service Short Drive Very Busy - Reservations a Must Weekend Brunch 
+00000504C,504C,Fernando's,Chicago,Good Decor Excellent Food Mexican below $15 Excellent Service Short Drive 
+00000505C,505C,Oak Tree,Chicago,American (Traditional) Cab Excellent Decor Excellent Food No Reservations Open for Breakfast below $15 Relaxed Senior Scene Good Service Weekend Brunch Wheelchair Access 
+00000506C,506C,Pomodoro,Chicago,Excellent Decor Excellent Food Italian Long Drive $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000507C,507C,Zarrosta Grill,Chicago,Californian Excellent Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Long Drive $15-$30 Parking/Valet Pizza Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000508C,508C,Chicago Diner,Chicago,Fair Decor Good Food Health Conscious Menus Health Food No Reservations No Smoking Allowed Open for Breakfast below $15 Parking/Valet Good Service Short Drive Vegetarian Weekend Brunch Wheelchair Access 
+00000509C,509C,Szechwan Restaurant,Chicago,Buffet Dining Chinese Excellent Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000510C,510C,Pierogi Inn,Chicago,Carry in Wine and Beer Fair Decor Excellent Food below $15 Polish Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000511C,511C,Orbit,Chicago,Fair Decor Excellent Food below $15 Polish Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000512C,512C,Southport City Saloon,Chicago,American (Traditional) Good Decor Dining Outdoors Good Food $15-$30 Place for Singles Private Parties Private Rooms Available Good Service Short Drive Walk Weekend Brunch 
+00000513C,513C,Tucchetti,Chicago,Excellent Decor Good Food Good for Younger Kids Italian Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Excellent Service Weekend Brunch 
+00000514C,514C,Fountain Blue,Chicago,American (Traditional) Continental Excellent Decor Excellent Food Long Drive Need To Dress $15-$30 Romantic Excellent Service Weekend Brunch 
+00000515C,515C,Cucina Roma,Chicago,Creative Good Decor Good Food Italian Long Drive $15-$30 Parking/Valet Good Service 
+00000516C,516C,Blue Mesa,Chicago,Creative Excellent Decor Dining Outdoors Excellent Food $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Short Drive Southwestern Walk Weekend Brunch 
+00000517C,517C,Original Pancake House,Chicago,American (Traditional) Good Decor Extraordinary Food For the Young and Young at Heart Good for Younger Kids No Reservations Open for Breakfast below $15 Excellent Service Short Drive 
+00000518C,518C,Fireplace Inn,Chicago,After Hours Dining Bar-B-Q Cab Good Decor Dining Outdoors Excellent Food Late Night Menu $15-$30 Romantic Excellent Service Walk Weekend Brunch 
+00000519C,519C,Seven Treasures,Chicago,After Hours Dining Chinese Fair Decor Excellent Food Late Night Menu No Reservations below $15 Good Service Short Drive Weekend Brunch 
+00000520C,520C,Hashalom,Chicago,Carry in Wine and Beer Fair Decor Excellent Food Middle Eastern Moroccan below $15 Good Service Short Drive 
+00000521C,521C,Leo's Lunchroom,Chicago,American (New) Carry in Wine and Beer Good Decor Eclectic Extraordinary Food No Reservations Open for Breakfast below $15 Quirky Good Service Short Drive Weekend Brunch 
+00000522C,522C,Chez Delphonse,Chicago,Creative Caribbean Good Decor Excellent Food French (New) $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000523C,523C,Lindo Mexico,Chicago,Authentic After Hours Dining Excellent Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Late Night Menu Long Drive Mexican $15-$30 Good Service Weekend Brunch 
+00000524C,524C,Palm,Chicago,Business Scene Cab Excellent Decor Extraordinary Food Good Out of Town Business $30-$50 Parking/Valet Power Brokers Private Parties Private Rooms Available Excellent Service Steakhouses Very Busy - Reservations a Must Weekend Brunch 
+00000525C,525C,Delaney and Murphy,Chicago,Business Scene Classic Hotel Dining Excellent Decor Excellent Food Good Out of Town Business Long Drive $15-$30 Parking/Valet Excellent Service Steakhouses 
+00000526C,526C,Gino's Steak House,Chicago,Business Scene Good Decor Good Food Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Good Service Steakhouses 
+00000527C,527C,Jerome's,Chicago,American (New) Catering for Special Events Excellent Decor Dining Outdoors Eclectic Excellent Food Great for People Watching Open for Breakfast $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000528C,528C,Da Nicola Ristorante,Chicago,Good Decor Good Food Italian $15-$30 Excellent Service Short Drive Weekend Brunch 
+00000529C,529C,Nuevo Leon,Chicago,Authentic After Hours Dining Fair Decor Extraordinary Food Late Night Menu Little Known But Well Liked Mexican Open for Breakfast below $15 Excellent Service Short Drive Weekend Brunch 
+00000530C,530C,Abbis Abeba,Chicago,Fair Decor Ethiopian Excellent Food below $15 Excellent Service Short Drive 
+00000531C,531C,Daniello's,Chicago,Good Decor Dancing Entertainment Good Food Italian Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Good Service Weekend Brunch 
+00000532C,532C,Queen of the Sea,Chicago,After Hours Dining Good Decor Good Food Late Night Menu Long Drive $15-$30 Good Service Soulfood Southern Weekend Brunch 
+00000533C,533C,Rinconcito Sudamericano,Chicago,Authentic Good Decor Excellent Food Little Known But Well Liked $15-$30 Peruvian Excellent Service Short Drive Weekend Brunch 
+00000534C,534C,Convito Italiano,Chicago,Creative Catering for Special Events Excellent Decor Delivery Available Excellent Food Italian Long Drive $15-$30 Parking/Valet Excellent Service Takeout Available Weekend Brunch 
+00000535C,535C,Filippo's,Chicago,Excellent Decor Excellent Food Italian $15-$30 Quiet for Conversation Excellent Service Short Drive Weekend Brunch 
+00000536C,536C,Yvette North,Chicago,Good Decor Dancing Entertainment Good Food French Bistro Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Good Service Weekend Brunch 
+00000537C,537C,Caribbean Delight,Chicago,Caribbean Good Decor Excellent Food Long Drive $15-$30 Good Service Weekend Brunch 
+00000538C,538C,Kamehachi,Chicago,Cab Excellent Decor Extraordinary Food Japanese $15-$30 Excellent Service 
+00000539C,539C,Trattoria Pizzeria Roma,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Pizza Excellent Service Weekend Brunch 
+00000540C,540C,Machu Picchu,Chicago,Carry in Wine and Beer Good Decor Good Food $15-$30 Peruvian Good Service Short Drive 
+00000541C,541C,Gold Coast Dogs,Chicago,American (Traditional) Cab Fair Decor Delivery Available Excellent Food For the Young and Young at Heart Good for Younger Kids below $15 Good Service Traditional Takeout Available Weekend Brunch 
+00000542C,542C,Roxy Cafe,Chicago,American (New) American (Traditional) Business Scene Excellent Decor Eclectic Excellent Food Long Drive $15-$30 Relaxed Senior Scene Excellent Service Up and Coming Weekend Brunch 
+00000543C,543C,Weber Grill Restaurant,Chicago,American (Traditional) Bar-B-Q Excellent Decor Excellent Food Good for Younger Kids Long Drive $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000544C,544C,Cuisine:s,Chicago,Cab Classic Hotel Dining Extraordinary Decor Extraordinary Food Little Known But Well Liked Mediterranean $30-$50 Parking/Valet Extraordinary Service 
+00000545C,545C,Como Inn,Chicago,An Historic Spot Cab Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000546C,546C,Bub City Crabshack & BBQ,Chicago,Bar-B-Q Excellent Decor Dancing Entertainment Good Food Good for Younger Kids $15-$30 Parking/Valet Private Parties Private Rooms Available Quirky Excellent Service Seafood Short Drive Weekend Brunch 
+00000547C,547C,Dragon Inn,Chicago,Chinese Good Decor Excellent Food Long Drive $15-$30 Parking/Valet Excellent Service 
+00000548C,548C,Monastero's,Chicago,Excellent Decor Excellent Food Italian $15-$30 Private Parties Private Rooms Available Excellent Service Short Drive Weekend Brunch 
+00000549C,549C,Ambassador Caffe,Chicago,Carry in Wine and Beer Cuban Good Decor Good Food $15-$30 Good Service Short Drive 
+00000550C,550C,Mathon's,Chicago,Good Decor Excellent Food Long Drive $15-$30 Excellent Service Seafood Weekend Brunch 
+00000551C,551C,La Locanda,Chicago,Business Scene Cab Excellent Decor Extraordinary Food Italian $30-$50 Parking/Valet Romantic Excellent Service Very Busy - Reservations a Must Weekend Brunch 
+00000552C,552C,It's Greek to Me,Chicago,After Hours Dining Cab Excellent Decor Excellent Food Greek Late Night Menu $15-$30 Parking/Valet Excellent Service Weekend Brunch 
+00000553C,553C,Old Carolina Crab House,Chicago,Authentic Cab Excellent Decor Excellent Food $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Seafood Weekend Brunch 
+00000554C,554C,Buckingham's,Chicago,Business Scene Cab Classic Hotel Dining Excellent Decor Excellent Food Good Out of Town Business Need To Dress $30-$50 Parking/Valet Extraordinary Service Steakhouses 
+00000555C,555C,Gale Street Inn,Chicago,American (Traditional) Bar-B-Q Continental Good Decor Excellent Food $15-$30 Parking/Valet Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000556C,556C,Grappa,Chicago,Business Scene Cab Classic Hotel Dining Extraordinary Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Italian $30-$50 Parking/Valet Prix Fixe Menus Romantic Excellent Service Up and Coming Walk 
+00000557C,557C,Poul Zakopane Harnas,Chicago,Continental Good Decor Good Food $15-$30 Polish Good Service Short Drive 
+00000558C,558C,Soul Queen,Chicago,After Hours Dining Buffet Dining Good Decor Good Food Late Night Menu Little Known But Well Liked Long Drive $15-$30 Parking/Valet Good Service Soulfood Southern Weekend Brunch 
+00000559C,559C,Cousin's,Chicago,Carry in Wine and Beer Fair Decor Excellent Food Mediterranean Middle Eastern below $15 Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000560C,560C,Taylor Brewing Company,Chicago,American (Traditional) Excellent Decor Good Food Long Drive below $15 Parking/Valet Place for Singles Pub Feel Good Service See the Game Singles Scene 
+00000561C,561C,Trader Vic's,Chicago,Buffet Dining Business Scene Cab Classic Hotel Dining Good Decor Good Food Good Out of Town Business $15-$30 Parking/Valet Polynesian Private Parties Private Rooms Available Good Service 
+00000562C,562C,Home Run Inn,Chicago,Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Long Drive No Reservations below $15 Pizza Good Service Traditional Weekend Brunch 
+00000563C,563C,Winnetka Grill,Chicago,American (New) An Out Of The Way Find Creative Excellent Decor Dining Outdoors Extraordinary Food Long Drive $30-$50 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service Weekend Brunch 
+00000564C,564C,TRIO,Chicago,An Out Of The Way Find Asian Near-perfect Decor Near-perfect Food Fabulous Wine Lists French (New) Good Out of Town Business Health Conscious Menus Hip Place To Be Italian Long Drive Need To Dress No Smoking Allowed over $50 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Near-perfect Service Up and Coming Very Busy - Reservations a Must Walk 
+00000565C,565C,Giovanni's,Chicago,After Hours Dining American (Traditional) Good Decor Delivery Available Excellent Food Italian Late Night Menu Little Known But Well Liked Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Takeout Available Very Busy - Reservations a Must Weekend Brunch 
+00000566C,566C,French Kitchen,Chicago,Excellent Decor Excellent Food French Long Drive $15-$30 Quiet for Conversation Excellent Service Weekend Brunch 
+00000567C,567C,Pasteur,Chicago,Buffet Dining Fair Decor Excellent Food Long Drive $15-$30 Good Service Very Busy - Reservations a Must Vietnamese Wheelchair Access 
+00000568C,568C,Sweet Spice Cafe & Bar,Chicago,American (New) Cab Excellent Decor Eclectic Excellent Food $15-$30 Excellent Service Weekend Brunch 
+00000569C,569C,Army & Lou's,Chicago,Buffet Dining Catering for Special Events Good Decor Excellent Food Long Drive No Reservations Open for Breakfast below $15 Excellent Service Soulfood Southern Weekend Brunch 
+00000570C,570C,Gaylord India,Chicago,Buffet Dining Cab Good Decor Excellent Food Indian $15-$30 Quiet for Conversation Excellent Service 
+00000571C,571C,Windows of Cuisine,Chicago,Creative Chinese Excellent Decor Excellent Food Little Known But Well Liked Long Drive $15-$30 Parking/Valet Relaxed Senior Scene Excellent Service 
+00000572C,572C,White Knights,Chicago,Good Decor Dancing Entertainment Good Food Long Drive $15-$30 Parking/Valet Russian Good Service 
+00000573C,573C,Ranalli's,Chicago,After Hours Dining Good Decor Dining Outdoors Good Food For the Young and Young at Heart Good for Younger Kids Italian Late Night Menu No Reservations below $15 Parking/Valet Pizza Good Service Short Drive Weekend Brunch 
+00000574C,574C,Taylor Street Bistro,Chicago,Excellent Decor Excellent Food French Bistro $15-$30 Parking/Valet Quiet for Conversation Excellent Service Short Drive 
+00000575C,575C,La Risotteria Nord,Chicago,Excellent Decor Extraordinary Food Italian $15-$30 Parking/Valet Excellent Service Short Drive Up and Coming Weekend Brunch 
+00000576C,576C,Vivere,Chicago,Business Scene Cab Extraordinary Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Italian $30-$50 Parking/Valet Power Brokers Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service Very Busy - Reservations a Must 
+00000577C,577C,Whitehall Place,Chicago,Business Scene Cab Classic Hotel Dining Continental Good Decor Good Food $15-$30 Good Service 
+00000578C,578C,Vinny's,Chicago,Good Decor Dining Outdoors Good Food Italian $15-$30 Parking/Valet People Keep Coming Back Private Parties Private Rooms Available Excellent Service Short Drive Weekend Brunch 
+00000579C,579C,Three Happiness,Chicago,Carry in Wine and Beer Chinese Fair Decor Dim Sum Excellent Food No Reservations $15-$30 Parking/Valet Good Service Short Drive Weekend Brunch 
+00000580C,580C,Davis Street Fishmarket,Chicago,Good Decor Excellent Food Long Drive $15-$30 Excellent Service Seafood Weekend Brunch 
+00000581C,581C,Carson's Ribs,Chicago,American (Traditional) Bar-B-Q Cab Good Decor Excellent Food $15-$30 Parking/Valet Excellent Service Traditional Weekend Brunch 
+00000582C,582C,Lac Vien,Chicago,Fair Decor Excellent Food below $15 Good Service Short Drive Vietnamese Weekend Brunch 
+00000583C,583C,Busy Bee,Chicago,Coffee Shops Fair Decor Diners Excellent Food Open for Breakfast below $15 Polish Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000584C,584C,Pandl's in Bayside,Chicago,American (New) Excellent Decor Excellent Food Long Drive No Smoking Allowed $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000585C,585C,Espial,Chicago,After Hours Dining Creative Good Decor Eclectic Good Food French Bistro Italian Late Night Menu $15-$30 Place for Singles Private Parties Private Rooms Available Quiet for Conversation Romantic Good Service Short Drive 
+00000586C,586C,Bice,Chicago,Business Scene Cab Extraordinary Decor Dining Outdoors Excellent Food Good Out of Town Business Hip Place To Be Italian $30-$50 Parking/Valet Power Brokers Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000587C,587C,Alex's Washington Gardens,Chicago,Carry in Wine and Beer Good Decor Excellent Food Italian Long Drive $15-$30 Quiet for Conversation Excellent Service Weekend Brunch 
+00000588C,588C,P.S. Bangkok,Chicago,Buffet Dining Carry in Wine and Beer Good Decor Extraordinary Food $15-$30 Relaxed Senior Scene Excellent Service Short Drive Thai Wheelchair Access 
+00000589C,589C,Lone Star Steakhouse,Chicago,Excellent Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Long Drive $15-$30 Parking/Valet Excellent Service Steakhouses Weekend Brunch 
+00000590C,590C,Claim Company,Chicago,Cab Good Decor Eclectic Good Food For the Young and Young at Heart Good for Younger Kids Hamburgers No Reservations below $15 Parking/Valet Excellent Service Traditional Weekend Brunch 
+00000591C,591C,Cafe Iberico,Chicago,Authentic After Hours Dining Cab Good Decor Excellent Food French Late Night Menu $15-$30 Excellent Service Spanish Tapas Weekend Brunch 
+00000592C,592C,302 West,Chicago,An Out Of The Way Find Californian Extraordinary Decor Extraordinary Food Long Drive Need To Dress $30-$50 Quiet for Conversation Romantic Extraordinary Service Seafood 
+00000593C,593C,Szechwan House,Chicago,Buffet Dining Business Scene Cab Chinese Good Decor Excellent Food $15-$30 Excellent Service Weekend Brunch 
+00000594C,594C,Ishtar Inn,Chicago,Cab Good Decor Excellent Food Middle Eastern below $15 Excellent Service 
+00000595C,595C,Rosebud on Rush,Chicago,Business Scene Cab Excellent Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Hip Place To Be Italian $15-$30 Parking/Valet Power Brokers Private Parties Private Rooms Available Excellent Service Tourist Appeal Very Busy - Reservations a Must Weekend Brunch 
+00000596C,596C,Kyoto Japanese Restaurant,Chicago,Good Decor Extraordinary Food Japanese $15-$30 Excellent Service Short Drive 
+00000597C,597C,Cafe 36,Chicago,Excellent Decor Extraordinary Food French (New) Italian Little Known But Well Liked Long Drive $15-$30 Private Parties Private Rooms Available Quiet for Conversation Romantic Excellent Service Weekend Brunch 
+00000598C,598C,Edith's Bar-B-Q,Chicago,Bar-B-Q Carry in Wine and Beer Fair Decor Extraordinary Food Little Known But Well Liked No Reservations below $15 Excellent Service Short Drive Weekend Brunch 
+00000599C,599C,Poor Phil's Oyster Bar,Chicago,Classic Hotel Dining Good Decor Excellent Food Long Drive below $15 Parking/Valet Good Service Seafood 
+00000600C,600C,Tutto Italiano,Chicago,Cab Good Decor Good Food Italian Little Known But Well Liked $15-$30 Parking/Valet Good Service 
+00000601C,601C,Eccentric,Chicago,American (New) Cab Excellent Decor Excellent Food Great Place to Meet for a Drink $15-$30 Parking/Valet Place for Singles Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000602C,602C,Marc,Chicago,American (New) Business Scene Cab Excellent Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink $30-$50 Parking/Valet Excellent Service Up and Coming Very Busy - Reservations a Must Weekend Brunch 
+00000603C,603C,Mare,Chicago,Business Scene Cab Extraordinary Decor Dining Outdoors Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Hip Place To Be Italian $30-$50 Parking/Valet Power Brokers Private Parties Private Rooms Available Excellent Service Seafood Up and Coming Very Busy - Reservations a Must Weekend Brunch 
+00000604C,604C,Mia Torre,Chicago,Cab Excellent Decor Excellent Food Italian $15-$30 Excellent Service 
+00000605C,605C,Johnny D's,Chicago,Good Decor Excellent Food Italian Long Drive $15-$30 Parking/Valet Pizza Excellent Service 
+00000606C,606C,Courtright's,Chicago,American (Traditional) Business Scene Good Decor Good Food Good Out of Town Business Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Good Service Weekend Brunch 
+00000607C,607C,Ostioneria Playa Azul,Chicago,After Hours Dining Good Decor Excellent Food Late Night Menu Mexican $15-$30 Good Service Seafood Short Drive 
+00000608C,608C,Schulien's,Chicago,Authentic Excellent Decor Dancing Entertainment Excellent Food German $15-$30 Private Parties Private Rooms Available Excellent Service Short Drive Traditional Weekend Brunch 
+00000609C,609C,Dieterle's,Chicago,An Out Of The Way Find Good Decor Extraordinary Food German Little Known But Well Liked Long Drive $15-$30 Excellent Service Weekend Brunch 
+00000610C,610C,BISTRO BANLIEUE,Chicago,An Out Of The Way Find Creative Extraordinary Decor Extraordinary Food French Bistro Game Long Drive $15-$30 Parking/Valet Extraordinary Service 
+00000611C,611C,Cafe Absinthe,Chicago,American (New) Extraordinary Decor Extraordinary Food Great for People Watching Hip Place To Be $30-$50 Parking/Valet Romantic Excellent Service Short Drive Up and Coming Weekend Brunch 
+00000612C,612C,MIA FRANCESCA,Chicago,Excellent Decor Dining Outdoors Extraordinary Food Great for People Watching Hip Place To Be Italian No Reservations $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Short Drive Weekend Brunch 
+00000613C,613C,Frida's,Chicago,Creative Excellent Decor Dining Outdoors Excellent Food Mexican $15-$30 Parking/Valet Excellent Service Short Drive Up and Coming Weekend Brunch 
+00000614C,614C,T'ang Dynasty,Chicago,Buffet Dining Cab Chinese Excellent Decor Excellent Food $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service 
+00000615C,615C,Trattoria No. 10,Chicago,Cab Extraordinary Decor Extraordinary Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service 
+00000616C,616C,Corner Bakery,Chicago,Bakeries Cab Excellent Decor Delivery Available Eclectic Extraordinary Food Fine for Dining Alone Open for Breakfast below $15 Parking/Valet Excellent Service Takeout Available Weekend Brunch 
+00000617C,617C,Ravinia Bistro Maison Barussea,Chicago,Excellent Decor Excellent Food French Bistro $15-$30 Parking/Valet Quiet for Conversation Romantic Excellent Service 
+00000618C,618C,Un DiAmo,Chicago,Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Excellent Service Short Drive Up and Coming Weekend Brunch 
+00000619C,619C,Uncle Tannous,Chicago,Good Decor Dancing Entertainment Excellent Food Middle Eastern $15-$30 Parking/Valet Excellent Service Short Drive 
+00000620C,620C,GORDON,Chicago,American (New) Business Scene Cab Extraordinary Decor Dancing Entertainment Extraordinary Food Great Place to Meet for a Drink Hip Place To Be Need To Dress $30-$50 Parking/Valet Power Brokers Pre-theater Dining Private Parties Private Rooms Available Prix Fixe Menus Quiet for Conversation Romantic Extraordinary Service Very Busy - Reservations a Must Weekend Brunch 
+00000621C,621C,Oo-La-La!,Chicago,Excellent Decor Dining Outdoors Excellent Food French Bistro Great for People Watching Hip Place To Be Italian $15-$30 Parking/Valet Excellent Service Short Drive Weekend Brunch 
+00000622C,622C,Genghis Khan,Chicago,Good Decor Excellent Food Indian Long Drive below $15 Parking/Valet Good Service 
+00000623C,623C,Siam Cafe,Chicago,Good Decor Excellent Food $15-$30 Good Service Short Drive Thai 
+00000624C,624C,Abril,Chicago,After Hours Dining Creative Good Decor Excellent Food Late Night Menu Long Drive Margaritas Mexican below $15 Excellent Service Weekend Brunch 
+00000625C,625C,Distant Mirror Cafe,Chicago,Good Decor Good Food Long Drive $15-$30 Good Service Spanish Tapas Up and Coming Weekend Brunch 
+00000626C,626C,Rupert's for Steaks,Chicago,Business Scene Excellent Decor Extraordinary Food Good Out of Town Business Long Drive $30-$50 Parking/Valet Private Parties Private Rooms Available Excellent Service Steakhouses 
+00000627C,627C,YOSHI'S CAFE,Chicago,Asian Extraordinary Decor Near-perfect Food Fabulous Wine Lists French (New) Game Good Out of Town Business Japanese Need To Dress $30-$50 Parking/Valet Prix Fixe Menus Quiet for Conversation Romantic Extraordinary Service Short Drive Very Busy - Reservations a Must 
+00000628C,628C,Il Toscanaccio,Chicago,Cab Good Decor Good Food Italian $15-$30 Good Service Up and Coming 
+00000629C,629C,Bar Louie,Chicago,After Hours Dining Cab Good Decor Good Food Italian Late Night Menu $15-$30 Place for Singles Good Service 
+00000630C,630C,El Nuevo Mexicano,Chicago,Excellent Decor Excellent Food Mexican No Reservations below $15 Excellent Service Short Drive Weekend Brunch 
+00000631C,631C,Arco de Cuchilleros,Chicago,Authentic Good Decor Excellent Food $15-$30 Excellent Service Short Drive Spanish Tapas Weekend Brunch 
+00000632C,632C,Northside Cafe,Chicago,American (New) Good Decor Dining Outdoors Good Food Great for People Watching below $15 Parking/Valet Place for Singles Pub Feel Good Service See the Game Short Drive Singles Scene Weekend Brunch 
+00000633C,633C,Udupi Palace,Chicago,Carry in Wine and Beer Good Decor Excellent Food Indian below $15 Excellent Service Short Drive Weekend Brunch 
+00000634C,634C,Osteria del Vecchio Ristorante,Chicago,Good Decor Good Food Italian $15-$30 Parking/Valet Pizza Private Parties Private Rooms Available Good Service 
+00000635C,635C,Maple Tree Inn,Chicago,Cajun Creole Excellent Decor Dancing Dining Outdoors Entertainment Excellent Food Long Drive No Reservations $15-$30 Private Parties Private Rooms Available Excellent Service Weekend Brunch 
+00000636C,636C,Coco Pazzo,Chicago,Business Scene Creative Cab Extraordinary Decor Extraordinary Food Good Out of Town Business Great Place to Meet for a Drink Hip Place To Be Italian $30-$50 Parking/Valet Power Brokers Romantic Extraordinary Service Weekend Brunch 
+00000637C,637C,D'Agostino's Cafe & Bar,Chicago,Good Decor Good Food For the Young and Young at Heart Good for Younger Kids Italian $15-$30 Parking/Valet Pizza Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000638C,638C,Bangkok,Chicago,Buffet Dining Excellent Decor Extraordinary Food $15-$30 Excellent Service Short Drive Thai 
+00000639C,639C,Madison's,Chicago,After Hours Dining Business Scene Cab Good Decor Good Food Good Out of Town Business Italian Late Night Menu $15-$30 Private Parties Private Rooms Available Good Service Steakhouses Up and Coming Weekend Brunch 
+00000640C,640C,EVEREST,Chicago,Business Scene Cab Near-perfect Decor Near-perfect Food Fabulous Wine Lists French (New) Game Good Out of Town Business Hip Place To Be Need To Dress over $50 Parking/Valet Power Brokers Pre-theater Dining Private Parties Private Rooms Available Prix Fixe Menus Quiet for Conversation Romantic Near-perfect Service Very Busy - Reservations a Must 
+00000641C,641C,Babaluci,Chicago,Good Decor Good Food Italian $15-$30 Good Service Short Drive Weekend Brunch 
+00000642C,642C,Leona's Daughters,Chicago,Good Decor Excellent Food For the Young and Young at Heart Good for Younger Kids Italian $15-$30 Parking/Valet Pizza Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Short Drive Weekend Brunch 
+00000643C,643C,BOB CHINN'S CRAB HOUSE,Chicago,Good Decor Extraordinary Food Good for Younger Kids Long Drive No Reservations $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Seafood Weekend Brunch 
+00000644C,644C,Marche,Chicago,Business Scene Cab Extraordinary Decor Excellent Food French Bistro Good Out of Town Business Great Place to Meet for a Drink Great for People Watching Hip Place To Be $30-$50 Parking/Valet Place for Singles Power Brokers Private Parties Private Rooms Available Pub Feel Romantic Excellent Service See the Game Singles Scene Up and Coming Walk Weekend Brunch 
+00000645C,645C,Akai Hana,Chicago,An Out Of The Way Find Business Scene Excellent Decor Extraordinary Food Japanese Little Known But Well Liked Long Drive No Reservations No Smoking Allowed $15-$30 Quiet for Conversation Relaxed Senior Scene Excellent Service 
+00000646C,646C,Cafe Bernard,Chicago,Good Decor Excellent Food French Bistro $15-$30 Parking/Valet Quiet for Conversation Romantic Excellent Service Short Drive Traditional Weekend Brunch 
+00000647C,647C,Szechwan East,Chicago,Buffet Dining Business Scene Cab Chinese Good Decor Dim Sum Good Food $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Good Service Weekend Brunch 
+00000648C,648C,Formosa,Chicago,Carry in Wine and Beer Chinese Fair Decor Excellent Food below $15 Excellent Service Short Drive 
+00000649C,649C,Vidalia on Park,Chicago,American (New) Business Scene Excellent Decor Excellent Food Long Drive $30-$50 Private Parties Private Rooms Available Quiet for Conversation Romantic Excellent Service Up and Coming Weekend Brunch 
+00000650C,650C,Blackhawk Lodge,Chicago,American (Regional) Business Scene Cab Extraordinary Decor Dining Outdoors Excellent Food Great Place to Meet for a Drink $15-$30 Parking/Valet Excellent Service Traditional Weekend Brunch 
+00000651C,651C,Rada's Inn,Chicago,Good Decor Eastern European Good Food $15-$30 Good Service Short Drive 
+00000652C,652C,Ann Sather,Chicago,American (Traditional) An Historic Spot Catering for Special Events Good Decor Delivery Available Excellent Food Game Good for Younger Kids No Liquor Served No Reservations Open for Breakfast below $15 Parking/Valet Relaxed Senior Scene Excellent Service Short Drive Takeout Available Weekend Brunch 
+00000653C,653C,Surf and Turf,Chicago,Business Scene Cab Excellent Decor Dancing Entertainment Excellent Food Good Out of Town Business Great Place to Meet for a Drink $30-$50 Parking/Valet Private Parties Private Rooms Available Excellent Service Seafood Steakhouses Up and Coming Walk Weekend Brunch 
+00000654C,654C,Reza's,Chicago,Cab Good Decor Excellent Food Middle Eastern $15-$30 Parking/Valet Persian Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service 
+00000655C,655C,Rudi's Wine Bar & Cafe,Chicago,Excellent Decor Extraordinary Food French Bistro $15-$30 Romantic Excellent Service Short Drive Weekend Brunch 
+00000656C,656C,Blue Agave,Chicago,Cab Good Decor Good Food Mexican $15-$30 Place for Singles Good Service Weekend Brunch 
+00000657C,657C,Cornelia's,Chicago,American (Traditional) Cab Excellent Decor Excellent Food $15-$30 Excellent Service Weekend Brunch 
+00000658C,658C,Francesco's Hole in the Wall,Chicago,Good Decor Good Food Italian Long Drive $15-$30 Parking/Valet Good Service Weekend Brunch 
+00000659C,659C,Waterford,Chicago,An Out Of The Way Find Business Scene Classic Hotel Dining Continental Extraordinary Decor Extraordinary Food French Good Out of Town Business Little Known But Well Liked Long Drive Need To Dress $30-$50 Parking/Valet Private Parties Private Rooms Available Quiet for Conversation Romantic Extraordinary Service 
+00000660C,660C,Farrago,Chicago,American (New) Creative Cab Excellent Decor Extraordinary Food $15-$30 Excellent Service Weekend Brunch 
+00000661C,661C,D & J Bistro,Chicago,An Out Of The Way Find Excellent Decor Delivery Available Dining Outdoors Extraordinary Food French Bistro Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Prix Fixe Menus Romantic Extraordinary Service Takeout Available Weekend Brunch 
+00000662C,662C,Dee's,Chicago,Chinese Excellent Decor Extraordinary Food $15-$30 Parking/Valet Excellent Service Short Drive 
+00000663C,663C,My Favorite Inn,Chicago,Good Decor Extraordinary Food Italian Long Drive No Reservations $15-$30 Relaxed Senior Scene Extraordinary Service Weekend Brunch 
+00000664C,664C,Standard India,Chicago,Buffet Dining Carry in Wine and Beer Fair Decor Good Food Indian below $15 Good Service Short Drive 
+00000665C,665C,Philander's,Chicago,Classic Hotel Dining Extraordinary Decor Excellent Food Long Drive $15-$30 Parking/Valet Private Parties Private Rooms Available Excellent Service Seafood 
+00000666C,666C,Tulpe,Chicago,Carry in Wine and Beer Fair Decor Excellent Food Lithuanian below $15 Relaxed Senior Scene Good Service Short Drive Weekend Brunch 
+00000667C,667C,Cafe Angelo,Chicago,Business Scene Cab Classic Hotel Dining Excellent Decor Excellent Food Italian $15-$30 Parking/Valet Pre-theater Dining Private Parties Private Rooms Available Quiet for Conversation Excellent Service Traditional 
+00000668C,668C,Pine Yard,Chicago,Carry in Wine and Beer Chinese Good Decor Excellent Food Long Drive No Reservations $15-$30 Good Service 
+00000669C,669C,Biggs,Chicago,Business Scene Extraordinary Decor Excellent Food French Game Good Out of Town Business Need To Dress $30-$50 Parking/Valet Private Parties Private Rooms Available Romantic Excellent Service Short Drive Walk Weekend Brunch 
+00000670C,670C,Ethiopian Village,Chicago,Creative Good Decor Ethiopian Excellent Food below $15 Good Service Short Drive 
+00000671C,671C,Dixie Que,Chicago,Cajun Catering for Special Events Creole Good Decor Delivery Available Dining Outdoors Good Food For the Young and Young at Heart Good for Younger Kids below $15 Parking/Valet Pub Feel Good Service See the Game Short Drive Singles Scene Soulfood Southern Takeout Available Weekend Brunch 
+00000672C,672C,Star Top Cafe,Chicago,Excellent Decor Eclectic Extraordinary Food $15-$30 Excellent Service Short Drive 
+00000673C,673C,Febo,Chicago,Good Decor Excellent Food Italian $15-$30 Parking/Valet Private Parties Private Rooms Available Relaxed Senior Scene Excellent Service Short Drive 
+00000674C,674C,Buster Crab Seafood,Chicago,Good Decor Good Food $15-$30 Good Service Seafood Short Drive Weekend Brunch 
+00000675C,675C,La Luce,Chicago,Business Scene Cab Good Decor Good Food Italian $15-$30 Parking/Valet Quiet for Conversation Good Service 
